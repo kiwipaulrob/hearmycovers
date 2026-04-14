@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search — Playlist Archive</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a href="./" class="nav-home">Playlist Archive</a>
+      <span class="nav-sep">&middot;</span>
+      <a href="search.html" class="nav-active">Search</a>
+    </nav>
+  </header>
+
+  <main class="search-page">
+    <h1 class="search-heading">Search</h1>
+    <div class="search-bar-wrap">
+      <input type="search" id="searchInput" class="search-input"
+             placeholder="Song title, cover or original artist…" autofocus autocomplete="off">
+    </div>
+    <div id="searchStats" class="search-stats"></div>
+    <div id="searchResults" class="search-results"></div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script>
+    const SITE_TITLE = "Playlist Archive";
+    let fuse = null;
+    let allEntries = [];
+
+    async function loadIndex() {
+      const resp = await fetch('search_index.json');
+      allEntries = await resp.json();
+      fuse = new Fuse(allEntries, {
+        keys: [
+          { name: 'title',       weight: 0.6 },
+          { name: 'artist',      weight: 0.3 },
+          { name: 'orig_artist', weight: 0.3 },
+        ],
+        threshold: 0.35,
+        includeScore: true,
+        minMatchCharLength: 2,
+      });
+    }
+
+    function groupByPlaylist(results) {
+      const map = {};
+      for (const r of results) {
+        const item = r.item;
+        const key = item.playlist;
+        if (!map[key]) map[key] = { playlist: item.playlist, url: item.url, tracks: [] };
+        map[key].tracks.push(item);
+      }
+      return Object.values(map).sort((a, b) => a.playlist.localeCompare(b.playlist));
+    }
+
+    function renderResults(query) {
+      const container = document.getElementById('searchResults');
+      const stats = document.getElementById('searchStats');
+
+      if (!query || query.length < 2) {
+        container.innerHTML = '';
+        stats.textContent = '';
+        return;
+      }
+
+      const results = fuse.search(query);
+
+      if (results.length === 0) {
+        stats.textContent = 'No results found.';
+        container.innerHTML = '';
+        return;
+      }
+
+      const grouped = groupByPlaylist(results);
+      const totalTracks = results.length;
+      stats.textContent = `${totalTracks} result${totalTracks !== 1 ? 's' : ''} across ${grouped.length} playlist${grouped.length !== 1 ? 's' : ''}`;
+
+      container.innerHTML = grouped.map(group => `
+        <div class="search-group">
+          <h2 class="search-group-title">
+            <a href="${group.url}">${group.playlist}</a>
+            <span class="search-group-count">${group.tracks.length} match${group.tracks.length !== 1 ? 'es' : ''}</span>
+          </h2>
+          <div class="search-tracks">
+            ${group.tracks.map(t => `
+              <div class="search-track">
+                <span class="st-title">${t.title}</span>
+                <span class="st-sep">—</span>
+                <span class="st-artist">${t.artist}</span>
+                ${t.orig_artist ? `<span class="st-orig">orig. ${t.orig_artist}</span>` : ''}
+                ${t.year ? `<span class="st-year">${t.year}</span>` : ''}
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      `).join('');
+    }
+
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      renderResults(e.target.value.trim());
+    });
+
+    loadIndex();
+  </script>
+</body>
+</html>

@@ -1,0 +1,305 @@
+{
+  "Poolside|Pacific Standard Time": {
+    "mbid": "c1cc7a08-5069-4e29-808d-d5608707c900",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3772434"
+      }
+    ]
+  },
+  "The Sea And Cake|One Bedroom": {
+    "mbid": "c00cf9f4-f3b3-4282-80f3-3b8e608a0ac2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00006JCJF"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/339841"
+      }
+    ]
+  },
+  "Tame Impala|Sundown Syndrome / Remember Me": {
+    "mbid": "40a99e1e-ebd8-4441-b7b6-51212281cc19",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3946735"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/680954"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/au/album/id1445135496"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/album/1445135496"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1445135496"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/album/28920305"
+      }
+    ]
+  },
+  "Evelyn Evelyn|Evelyn Evelyn": {
+    "mbid": "bc11915d-bec1-4e37-baf1-4c78d1508a82",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0037OA1W8"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "http://jsrdirect.com/webstores/evelynevelyn/"
+      }
+    ]
+  },
+  "Lisa Mitchell|California": {
+    "mbid": "a79974bc-05e0-45b0-a95e-96ab4db482c1",
+    "links": []
+  },
+  "Lucy Dacus|Dancing In The Dark": {
+    "mbid": "8c4debec-7265-452a-88d6-3cb3f4b9096d",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/album/dancing-in-the-dark-single/1477538753"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/album/1586462591"
+      }
+    ]
+  },
+  "William Fitzsimmons|Derivatives": {
+    "mbid": "2608d3ec-135b-30ab-a18c-fe8f9a0caf6c",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B003KZ6Y98"
+      }
+    ]
+  },
+  "Trampled by Turtles|Where Is My Mind?": {
+    "mbid": "9b0119aa-6be2-41fe-812a-2113ec1d5666",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/7vH2fXhej1rubfAOvqwECV"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/7361686"
+      }
+    ]
+  },
+  "I Heart Hiroshima|Pink Frost": {
+    "mbid": "7fba2b0f-984d-40f9-bb90-e38151cb44d7",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id312619810"
+      }
+    ]
+  },
+  "Soccer Mommy|I'm On Fire": {
+    "mbid": "44e60e65-173c-480d-ac16-7f5be451df2b",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/1fwLr1J1BuLKl0gh4jsn7p"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/au/album/im-on-fire-single/1423639608"
+      }
+    ]
+  },
+  "Anni B Sweet|Start, Restart, Undo": {
+    "mbid": "671a79bd-f1d5-4908-9281-673676baf40f",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4355608"
+      }
+    ]
+  },
+  "The Dirtbombs|If You Don't Already Have A Look": {
+    "mbid": "7d465b1e-49d5-4876-beac-032c0916cba0",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0009EM0LY"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1621936"
+      }
+    ]
+  },
+  "Freedom Fry|Linger": {
+    "mbid": "484abdc8-71c2-4146-89a7-8b071aafa6c5",
+    "links": []
+  },
+  "The Shacks|Crimson And Clover": {
+    "mbid": "8db9654f-9140-46d4-a386-c9f3fa8502fd",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://theshacksband.bandcamp.com/track/crimson-and-clover-2"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://theshacksband.bandcamp.com/track/crimson-and-clover-2"
+      }
+    ]
+  },
+  "Candi Staton|Stand By Your Man": {
+    "mbid": "c762c0f8-7706-407b-8285-51273bbc2ffd",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2205457"
+      }
+    ]
+  },
+  "Lana Del Rey|Born To Die - The Paradise Edition": {
+    "mbid": "86def978-098d-4f5d-8195-870af3121e6e",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/8545867"
+      }
+    ]
+  },
+  "Lorde|Tennis Court": {
+    "mbid": "628bdf8a-0127-4019-92b1-d771b3ab90c4",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4938335"
+      }
+    ]
+  },
+  "Lara & The Trailers|Girls in the Garage (Oriental Special Edition)": {
+    "mbid": "3b7751b2-a367-4098-8696-b9bdca9b1d99",
+    "links": []
+  },
+  "Katy Goodman/Greta Morgan|Take It, It's Yours": {
+    "mbid": "f241143f-92b0-41bf-8673-03ea24aacce7",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B01IF4JREW"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/8930847"
+      }
+    ]
+  },
+  "Fadoul|Al Zman Saib (Habibi Funk 002)": {
+    "mbid": "6f178e46-99f0-4c5b-afb2-14755b5e1274",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://habibifunkrecords.bandcamp.com/album/al-zman-saib"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://habibifunkrecords.bandcamp.com/album/al-zman-saib"
+      }
+    ]
+  },
+  "Electrelane|Singles, B-sides & Live": {
+    "mbid": "833ac478-fb61-4ab4-91a5-20945b386d9e",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000GLKMLK"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/781957"
+      }
+    ]
+  },
+  "Naomi And The Boys|Girls in the Garage (Oriental Special Edition)": {
+    "mbid": "54d2af74-d1f7-4408-a19f-d09fb3b9975e",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://www.beatport.com/release/as-tears-go-by/2156414"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://www.junodownload.com/products/ltn-as-tears-go-by/3594217-02/"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://www.traxsource.com/title/895578/as-tears-go-by"
+      }
+    ]
+  },
+  "Brenton Wood|Rarities - The Double Shot / Whiz Years": {
+    "mbid": "7bb06a0d-983e-4fa2-b8c7-f75fc2fdf721",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0000034K6"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2512371"
+      }
+    ]
+  },
+  "Moose|...XYZ": {
+    "mbid": "ee846cb5-163e-4e3c-bb6e-c2803cd01ae2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B002FUIHYY"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2062146"
+      }
+    ]
+  },
+  "Anya Marina|Whatever You Like": {
+    "mbid": "28bc40d1-d01e-4a10-a136-c3489efbee93",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B002EHM0L4"
+      }
+    ]
+  },
+  "Luna|Best of Luna": {
+    "mbid": "8b35da17-36eb-4e2c-a7d5-21e769a36db1",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000I6BKAA"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/803552"
+      }
+    ]
+  }
+}

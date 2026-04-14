@@ -1,0 +1,295 @@
+{
+  "Katy Goodman/Greta Morgan|Take It, It's Yours": {
+    "mbid": "f241143f-92b0-41bf-8673-03ea24aacce7",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B01IF4JREW"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/8930847"
+      }
+    ]
+  },
+  "J Mascis|Martin + Me": {
+    "mbid": "720034e5-34f8-40b3-8704-5d06ae7d3ac0",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000005JCO"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1495229"
+      }
+    ]
+  },
+  "David Kilgour & Martin Phillipps|We're All Normal And We Want Our Freedom - A Tribute To Arthur Lee And Love": {
+    "mbid": "808049e9-7fbb-46f7-89fc-596886d78ddb",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2540651"
+      }
+    ]
+  },
+  "Marie Lafor\u00eat|Marie": {
+    "mbid": "67bd8de9-8c40-49b8-9cb8-80b7000e5ba7",
+    "links": []
+  },
+  "The Routes|The Twang Machine": {
+    "mbid": "94d4c38f-a1f7-4eb1-ad50-d8e3c7989851",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://theroutesjapan.bandcamp.com/album/the-twang-machine"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://theroutesjapan.bandcamp.com/album/the-twang-machine"
+      }
+    ]
+  },
+  "Frazey Ford|Obadiah": {
+    "mbid": "91d38a7b-9ff5-4a78-b415-a990adbcee81",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B003O7MI7E"
+      }
+    ]
+  },
+  "Alejandro Escovedo|Bourbonitis Blues": {
+    "mbid": "b377ca3a-c1ca-4127-be7b-501471997dfd",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00000IAGJ"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2688319"
+      }
+    ]
+  },
+  "Wilson Pickett|Wilson Pickett: A Man and a Half": {
+    "mbid": "eb86a293-e6d2-4ceb-9ff9-cce68bd59273",
+    "links": [
+      {
+        "type": "allmusic",
+        "url": "https://www.allmusic.com/album/release/mr0001615529"
+      }
+    ]
+  },
+  "Beige|Internet Single": {
+    "mbid": "7619cbac-8008-4783-a913-2b8dfafa7910",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.ca/gp/product/B000E97I3O"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3341006"
+      }
+    ]
+  },
+  "Marianne Faithfull|Negative Capability": {
+    "mbid": "e87b0301-54f1-48ca-a85b-a78c2756a505",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id1435145254"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1435145254"
+      }
+    ]
+  },
+  "The Rural Alberta Advantage|Paper Bag Records VS The Rise and Fall of Ziggy Stardust and the Spiders from Mars": {
+    "mbid": "5b111184-de84-41d7-a7cf-57747097bb2d",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4461548"
+      },
+      {
+        "type": "download for free",
+        "url": "http://paperbagrecords.com/downloads/paper-bag-records-vs-david-bowie/"
+      }
+    ]
+  },
+  "Ken Boothe|Everything I Own - The Definitive Collection": {
+    "mbid": "3ef39f81-65bc-46a7-ae1f-0949818c4eff",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/6R9NZHaLieMNyXoiXtTmpI"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/291406752"
+      }
+    ]
+  },
+  "Zola Jesus|POST": {
+    "mbid": "ef3c32b3-a690-41fb-bb80-72e556e4df66",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/7L752xVnJNY9OOE7MWlUVg"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/56630202"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/album/1445292228"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://www.beatport.com/release/-/3513330"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1445292228"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/album/84537125"
+      }
+    ]
+  },
+  "Rose Melberg|September": {
+    "mbid": "254878fb-a660-4de8-a022-581c210ee752",
+    "links": [
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/release/97707"
+      }
+    ]
+  },
+  "Best Coast|Just Tell Me That You Want Me \u2012 A Tribute To Fleetwood Mac": {
+    "mbid": "cbe2f461-f04b-4195-a1ca-fa74d3b86948",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2005710"
+      },
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/ep/best-coast/best-coast.p/"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/release/54832"
+      }
+    ]
+  },
+  "Moby feat. Heather Nova|Burning London The Clash Tribute": {
+    "mbid": "e63cb563-3a71-46f7-8ba4-5307fe1e846d",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.jp/gp/product/B000026X7B"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3523849"
+      }
+    ]
+  },
+  "Greensky Bluegrass|All Access, Vol. 1": {
+    "mbid": "b9ebdfe6-99ab-418c-8398-d6aae3ec2c82",
+    "links": []
+  },
+  "The Jam|The Gift (Deluxe Edition)": {
+    "mbid": "5972cb3b-61f9-4f0f-955b-c62e96cbec54",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/5dfdOzmI5HcitljGL6O1z6"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/461073425"
+      }
+    ]
+  },
+  "Mathilde Santing|Forty Nine": {
+    "mbid": "4533718d-28ba-4551-9302-ed5286bfc8a0",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3369762"
+      }
+    ]
+  },
+  "Alton Ellis|Sings Rock And Soul": {
+    "mbid": "e1743d3b-12b2-44b9-9dc0-108b48e7a0ca",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1481529"
+      }
+    ]
+  },
+  "Neon Indian|Internet Single": {
+    "mbid": "d45ad434-a462-47d4-885d-c372da3472ad",
+    "links": []
+  },
+  "Sam Amidon|BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine": {
+    "mbid": "57a7e382-cad1-4925-a4a2-6a7e1c38ee3a",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/6618139"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/album/651675004"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/album/651675004"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/album/20391633"
+      }
+    ]
+  },
+  "Saint Etienne|Foxbase Alpha": {
+    "mbid": "d54e6143-f698-456e-b07f-4346ad6a4985",
+    "links": []
+  },
+  "The Morning Benders|The Bedroom Covers": {
+    "mbid": "42c1ca79-7158-47d8-a877-081a82ef6b0d",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "http://ambenders.blogspot.com/2008/07/bedroom-covers.html"
+      }
+    ]
+  },
+  "Dylan Sherry|Sometimes Always / Come On": {
+    "mbid": "cc226852-9363-3b43-bad9-565c53b66f2f",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.de/gp/product/B00005Q0J1"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/568233"
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "Damien Jurado|Aquarium Drunkard: Lagniappe Sessions - Damien Jurado": {
+    "mbid": "e0ef59ad-ebb3-495c-87a4-0a428e2c38d6",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3171552"
+      }
+    ]
+  },
+  "Portastatic|Sour Shores": {
+    "mbid": "451dd2b4-9da4-4d87-8451-fb21011ccec8",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/20177650"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/0VwU5Yh23S7YdYZBCbdQZ1"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/1602254"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id189652061"
+      },
+      {
+        "type": "purchase for download",
+        "url": "http://www.mergerecords.com/catalog.php?item_id=416&method=item"
+      }
+    ]
+  },
+  "The Be Good Tanyas|Hello Love": {
+    "mbid": "608d9fb7-94fb-4a7f-a98e-22de8fa8406b",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000I6AFF6"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1908424"
+      }
+    ]
+  },
+  "Sturgill Simpson|In Bloom": {
+    "mbid": "fe389504-c8df-40c7-a0b4-fc83734450ef",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://wearewy.bandcamp.com/album/in-bloom"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://wearewy.bandcamp.com/album/in-bloom"
+      }
+    ]
+  },
+  "Psychic TV|The Bridge - A Tribute To Neil Young": {
+    "mbid": "4b6ff190-c6d8-4152-8e1b-f386b7bec3a0",
+    "links": []
+  },
+  "Leon Russell|Leon Russell And The Shelter People": {
+    "mbid": "0fb3dbc8-39d5-48fe-8e00-44f87627e214",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000003BSE"
+      }
+    ]
+  },
+  "Discovery|Discovery": {
+    "mbid": "305d758b-4bf0-4350-b2e8-72f01c7ff4aa",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "https://meriwether.bandcamp.com/album/discovery-corps"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://meriwether.bandcamp.com/album/discovery-corps"
+      }
+    ]
+  },
+  "Helado Negro|Sound and Vision": {
+    "mbid": "95740baa-2c05-4d65-be1f-57e5acb4948c",
+    "links": []
+  },
+  "The Routes|The Twang Machine": {
+    "mbid": "94d4c38f-a1f7-4eb1-ad50-d8e3c7989851",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://theroutesjapan.bandcamp.com/album/the-twang-machine"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://theroutesjapan.bandcamp.com/album/the-twang-machine"
+      }
+    ]
+  },
+  "Scott Bradlee's Postmodern Jukebox|Running Up That Hill (A Deal With God)": {
+    "mbid": "344ffaae-6c0d-47ee-9a01-58e1795392e9",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/3I55HthgqPq82YDhfzSHA2"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/388480297"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/album/1660721769"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/album/1660721769"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/album/267684571"
+      }
+    ]
+  },
+  "Luna|Best Of Luna - Lunafied": {
+    "mbid": "4355ee7c-b4e2-492e-914e-4e651bd1d3de",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00005J4BA"
+      }
+    ]
+  },
+  "The Dirtbombs|Ulltraglide In Black": {
+    "mbid": "f2588a7a-7fdb-4791-9ee0-19f7b5bca2a3",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/284918"
+      }
+    ]
+  },
+  "Willy DeVille|Panete Salsa: Le Meilleur de la Musique Latine": {
+    "mbid": "d8452d75-39bc-493a-85dc-7a34457ccbd6",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.fr/gp/product/B00003IQM6"
+      }
+    ]
+  },
+  "Bobby Womack|Fly Me To The Moon": {
+    "mbid": "bd223b68-fbd5-4f8a-a56d-beebc1620bc2",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1299772"
+      }
+    ]
+  },
+  "Frazey Ford|Can You Get To That": {
+    "mbid": "a3207458-d5a4-4946-a8f2-03de8a1911db",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/14653556"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/1K1B7Cp3E5J92kpOLRuDbG"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id1385720548"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/release/343735"
+      }
+    ]
+  },
+  "Port O'Brien / Papercuts|Be Yourself: A Tribute To Graham Nash": {
+    "mbid": "2d3a051f-77c2-49d2-8389-5d80818688a6",
+    "links": []
+  },
+  "Tristen|Just Like Heaven": {
+    "mbid": "1075817f-9163-417e-a276-b5050a979c4f",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://tristen.bandcamp.com/track/just-like-heaven"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://tristen.bandcamp.com/track/just-like-heaven"
+      }
+    ]
+  },
+  "Karl Blau|That's How I Got To Memphis": {
+    "mbid": "95923bf2-dd02-46a0-8306-d66af4895a91",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://thestickarounds.bandcamp.com/track/thats-how-i-got-to-memphis"
+      },
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/single/the-stick-arounds/_thats-how-i-got-to-memphis.p/"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://thestickarounds.bandcamp.com/track/thats-how-i-got-to-memphis"
+      }
+    ]
+  },
+  "Stereo Total|Y\u00e9y\u00e9 Existentialiste": {
+    "mbid": "eaec5a16-1837-42f7-b810-e0c8c6aafa3b",
+    "links": [
+      {
+        "type": "purchase for mail-order",
+        "url": "https://blowup.greedbag.com/buy/yy-existentialiste-0/"
+      }
+    ]
+  },
+  "The White Stripes|Elephant": {
+    "mbid": "bb29bd28-71e7-32d3-ab5f-c2d33b25434a",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B00008ACIN"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/383799"
+      }
+    ]
+  },
+  "Mot\u00f6rhead|Bad Magic": {
+    "mbid": "bf9a09d3-af93-4816-ab44-814cb1e94ec2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B0BNGVYLVF"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/26211107"
+      }
+    ]
+  },
+  "Jerry Lee Lewis|The Killer Collection": {
+    "mbid": "7a91b619-f0b9-4939-a295-64d245e73889",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3210644"
+      }
+    ]
+  }
+}

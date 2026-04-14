@@ -1,0 +1,255 @@
+{
+  "|": {
+    "mbid": "d9ea9503-dcd1-4b0b-b050-c58aa6b4fc45",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/5016784"
+      }
+    ]
+  },
+  "Ruby Isle|Into The Black": {
+    "mbid": "7ab8216a-aead-461c-9c0b-05e2441bae28",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/3BRM0iG3SJFlY7i378WLC0"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/1069138"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id250509585"
+      }
+    ]
+  },
+  "R.E.M.|#9 Dream": {
+    "mbid": "65d1e8f6-fbad-42fc-8f90-ce51484ca639",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1836126"
+      }
+    ]
+  },
+  "Liz Green|Mojo Presents: The White Album Recovered (N\u00b0 0000001)": {
+    "mbid": "5682bce2-3889-447a-be40-4525f3e4d158",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://angryjohnnyandthekillbillies.bandcamp.com/album/lizard-green"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://angryjohnnyandthekillbillies.bandcamp.com/album/lizard-green"
+      }
+    ]
+  },
+  "Placebo|Covers": {
+    "mbid": "07603432-47e1-4885-9b48-29fd2746bf4f",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B003B2B5UI"
+      }
+    ]
+  },
+  "Kyte|Two Sparks, Two Stars": {
+    "mbid": "48d0fa1d-fed1-4b62-b3fe-06daed291477",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B001KH68HQ"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1695382"
+      }
+    ]
+  },
+  "Coltrane Motion|Internet Single": {
+    "mbid": "7e1cc575-19c5-46f8-9c76-ecc03004f008",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/5n3aSSiwv7DkHzK6I1Cmy5"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/365591"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/gb/album/3942160"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/3942160"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/album/308412"
+      }
+    ]
+  },
+  "Sara Lov|The Young Eyes EP": {
+    "mbid": "f48d738b-8542-44b0-9976-2a45f66fe9c4",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B001PYQVVM"
+      }
+    ]
+  },
+  "The Wedding Present|Tommy": {
+    "mbid": "a2c4026e-0763-4e9e-b679-b890d572dc75",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B00EAM7RDC"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/20659210"
+      }
+    ]
+  },
+  "Justin Townes Earle|Midnight At The Movies": {
+    "mbid": "ed466915-3e74-4a0d-afd0-7f4fed49a339",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id305368671"
+      }
+    ]
+  },
+  "The Replacements|Closing Time (Live 1991)": {
+    "mbid": "09bae1f7-cfd6-4091-8ad6-9aebbbc71e47",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.de/gp/product/B00004Y2HU"
+      }
+    ]
+  },
+  "Joy Zipper|Dig for Fire: a Tribute to Pixies": {
+    "mbid": "437d0b3d-eed1-4bee-aa17-5e4dc56b0df7",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1158542"
+      }
+    ]
+  },
+  "Sea Power|Independents Day 08": {
+    "mbid": "1054c9ba-be93-45b4-a569-435afe4152fd",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/7996709"
+      }
+    ]
+  },
+  "Fischerspooner|#1": {
+    "mbid": "d7540849-d7f7-4c5d-a13d-2a45ba749bc2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B00006ALGC"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/142743"
+      }
+    ]
+  },
+  "The Rosebuds|Pearls: Volume One": {
+    "mbid": "a36645d5-3bf9-4438-baf6-4f7f667abaae",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/27459060"
+      }
+    ]
+  },
+  "Galaxie 500|This is Our Music": {
+    "mbid": "6ad37f52-ee70-4269-869e-57721d9155e1",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B002BW7AAI"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1992837"
+      }
+    ]
+  },
+  "Sonny & Cher|The Singles + (CD2)": {
+    "mbid": "f6e8dbdc-6ddd-4a27-a16a-3c2e8883bb3d",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2394591"
+      }
+    ]
+  },
+  "Penny Broadhurst|The Jesus and Mary Chain Covers Project": {
+    "mbid": "f2af2f42-1faa-409d-8530-81f105156d8d",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "http://www.jamendo.com/album/3643"
+      }
+    ]
+  },
+  "The Detroit Cobras|In Covers We Trust 05": {
+    "mbid": "58ec08e6-6cee-4393-9289-0a886c33ea60",
+    "links": []
+  },
+  "Dolby Anol|Buffetlibre Rewind 2": {
+    "mbid": "772dc30d-1031-4690-8924-a0bcb4a111d2",
+    "links": []
+  },
+  "Gloria Jones|Vixen": {
+    "mbid": "038cd882-9464-4146-a212-f8970ec5f367",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1440673"
+      }
+    ]
+  },
+  "The Love Sitars|Single": {
+    "mbid": "06197408-9a04-462d-8505-6e70ad1e077b",
+    "links": []
+  },
+  "Eastern Lane|Stop Me If You Think You've Heard This One Before\u2026": {
+    "mbid": "bce77b0c-f6e2-417d-b3b3-69fefad20644",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2486397"
+      }
+    ]
+  },
+  "Ruby Isle|elbo.ws II": {
+    "mbid": "c9f037f3-fa03-4568-9721-09b17522344d",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/2K6JFZHOStIhmoEYfCeEIO"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/12859430"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id1103392080"
+      }
+    ]
+  }
+}

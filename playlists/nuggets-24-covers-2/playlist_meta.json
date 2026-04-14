@@ -1,0 +1,189 @@
+{
+  "name": "Nuggets 24 - Covers 2",
+  "slug": "nuggets-24-covers-2",
+  "track_count": 23,
+  "year_range": "1979–2014",
+  "year_min": 1979,
+  "year_max": 2014,
+  "url": "playlists/nuggets-24-covers-2/",
+  "art_thumbnails": [
+    "img/01.jpg",
+    "img/02.jpg",
+    "img/03.jpg",
+    "img/04.jpg"
+  ],
+  "tracks": [
+    {
+      "title": "Don't Look Back In Anger",
+      "artist": "Devendra Banhart",
+      "orig_artist": "Oasis",
+      "album": "Guilt By Association",
+      "year": "2007"
+    },
+    {
+      "title": "Green Door",
+      "artist": "The Cramps",
+      "orig_artist": "Bob Davie and lyrics written by Marvin Moore",
+      "album": "Psychedelic Jungle",
+      "year": "1981"
+    },
+    {
+      "title": "Baby, I Love You",
+      "artist": "The Ramones",
+      "orig_artist": "The Ronettes",
+      "album": "End Of The Century (Expanded & Remastered)",
+      "year": "1980"
+    },
+    {
+      "title": "Close To Me",
+      "artist": "Pyeng Threadgill",
+      "orig_artist": "The Cure",
+      "album": "Of The Air",
+      "year": "2005"
+    },
+    {
+      "title": "We Will Become Silhouettes",
+      "artist": "The Shins",
+      "orig_artist": "The Postal Service",
+      "album": "Give Up",
+      "year": "2013"
+    },
+    {
+      "title": "Egyptian Reggae (orig. Jonathan Richman & the Modern Lovers)",
+      "artist": "The Feelies",
+      "orig_artist": "Live",
+      "album": "Four Free Feelies Songs",
+      "year": "1989"
+    },
+    {
+      "title": "Twenty Four Hours",
+      "artist": "The Twilight Sad",
+      "orig_artist": "Joy Divison",
+      "album": "Killed My Parents And Hit The Road",
+      "year": "2014"
+    },
+    {
+      "title": "Three Little Birds",
+      "artist": "The Postmarks",
+      "orig_artist": "Bob Marley",
+      "album": "By the Numbers",
+      "year": "2008"
+    },
+    {
+      "title": "We Are Mikey! We Are Rock!",
+      "artist": "The Hood Internet",
+      "orig_artist": "Cool Kids vs. Le Loup",
+      "album": "thehoodinternet.com (ABX)",
+      "year": "2008"
+    },
+    {
+      "title": "Wild Horses",
+      "artist": "The Flying Burrito Brothers",
+      "orig_artist": "The Rolling Stones",
+      "album": "Farther Along: The Best Of The Flying Burrito Brothers",
+      "year": "1988"
+    },
+    {
+      "title": "What Goes On",
+      "artist": "The Feelies",
+      "orig_artist": "Velvet Underground",
+      "album": "Only Life",
+      "year": "1988"
+    },
+    {
+      "title": "Take the skinheads bowling",
+      "artist": "Polar",
+      "orig_artist": "Camper Van Beethoven",
+      "album": "Feedback",
+      "year": "2008"
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Taken By Trees",
+      "orig_artist": "Guns N' Roses",
+      "album": "Sweet Child o' Mine",
+      "year": "2008"
+    },
+    {
+      "title": "You Only Live Twice",
+      "artist": "The Postmarks",
+      "orig_artist": "Nancy Sinatra",
+      "album": "By the Numbers",
+      "year": "2008"
+    },
+    {
+      "title": "In Between Days",
+      "artist": "EQ",
+      "orig_artist": "The Cure",
+      "album": "Aca esta la cura. Tributo a The Cure",
+      "year": "2007"
+    },
+    {
+      "title": "A message to you Rudy",
+      "artist": "The Specials",
+      "orig_artist": "Dandy Livingstone, 1967",
+      "album": "Specials",
+      "year": "1979"
+    },
+    {
+      "title": "Friday Night Saturday Morning",
+      "artist": "Nouvelle Vague",
+      "orig_artist": "The Specials",
+      "album": "Nouvelle vague",
+      "year": "2004"
+    },
+    {
+      "title": "Catch",
+      "artist": "Devics",
+      "orig_artist": "The Cure",
+      "album": "Just Like Heaven: a tribute to The Cure",
+      "year": "2009"
+    },
+    {
+      "title": "Love Will Tear Us Apart",
+      "artist": "Albanopower",
+      "orig_artist": "Joy Divsion",
+      "album": "Internet Single",
+      "year": "2009"
+    },
+    {
+      "title": "Archangel",
+      "artist": "Banjo or Freakout",
+      "orig_artist": "Burial",
+      "album": "Covers",
+      "year": "2008"
+    },
+    {
+      "title": "Green Fuz",
+      "artist": "The Cramps",
+      "orig_artist": "Randy Alvey / Green Fuz",
+      "album": "Psychedelic Jungle",
+      "year": "1981"
+    },
+    {
+      "title": "Everything Is Everything",
+      "artist": "Bootsy Collins",
+      "orig_artist": "",
+      "album": "LateNightTales: Fatboy Slim",
+      "year": "2007"
+    },
+    {
+      "title": "Girlfriend In A Coma (orig. The Smiths)",
+      "artist": "Noah And The Whale",
+      "orig_artist": "Live Session",
+      "album": "Internet Single",
+      "year": "2009"
+    }
+  ],
+  "html_path": "C:\\Users\\prob\\OneDrive\\Documents2\\hearmycovers\\playlists\\nuggets-24-covers-2\\index.html",
+  "missing_art": [
+    {
+      "num": "22",
+      "num_padded": "22",
+      "title": "Everything Is Everything",
+      "artist": "Bootsy Collins",
+      "album": "LateNightTales: Fatboy Slim",
+      "img_filename": "22.jpg"
+    }
+  ]
+}
