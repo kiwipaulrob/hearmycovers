@@ -176,14 +176,5 @@
     }
   ],
   "html_path": "C:\\Users\\prob\\OneDrive\\Documents2\\hearmycovers\\playlists\\nuggets-24-covers-2\\index.html",
-  "missing_art": [
-    {
-      "num": "22",
-      "num_padded": "22",
-      "title": "Everything Is Everything",
-      "artist": "Bootsy Collins",
-      "album": "LateNightTales: Fatboy Slim",
-      "img_filename": "22.jpg"
-    }
-  ]
+  "missing_art": []
 }
