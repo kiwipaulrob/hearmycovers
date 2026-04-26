@@ -1,0 +1,201 @@
+{
+  "name": "Nuggets 411 - Covers XXVIII",
+  "slug": "nuggets-411-covers-xxviii",
+  "track_count": 26,
+  "year_range": "1967–2023",
+  "year_min": 1967,
+  "year_max": 2023,
+  "url": "playlists/nuggets-411-covers-xxviii/",
+  "art_thumbnails": [
+    "img/01.jpg",
+    "img/02.jpg",
+    "img/03.jpg",
+    "img/04.jpg"
+  ],
+  "tracks": [
+    {
+      "title": "Fruits of My Labor",
+      "artist": "Waxahatchee",
+      "orig_artist": "Lucinda Williams",
+      "album": "Saint Cloud +3",
+      "year": "2021"
+    },
+    {
+      "title": "One Way or Another",
+      "artist": "Caitlin Rose",
+      "orig_artist": "Blondie",
+      "album": "3Sirens Presents: With Love Part 1",
+      "year": "2022"
+    },
+    {
+      "title": "Lithium",
+      "artist": "The Polyphonic Spree",
+      "orig_artist": "Nirvana",
+      "album": "Wait",
+      "year": "2006"
+    },
+    {
+      "title": "Sweetness",
+      "artist": "Damien Jurado & Richard Swift",
+      "orig_artist": "Yes",
+      "album": "Other People's Songs Volume One",
+      "year": "2016"
+    },
+    {
+      "title": "After Laughter (Comes Tears)",
+      "artist": "Sweet Tea",
+      "orig_artist": "Wendy Rene",
+      "album": "Light in the Attic & Friends",
+      "year": "2023"
+    },
+    {
+      "title": "Planet Caravan",
+      "artist": "Moon Duo",
+      "orig_artist": "Black Sabbath",
+      "album": "What Is This That Stands Before Me? (Black Sabbath Tribute)",
+      "year": "2020"
+    },
+    {
+      "title": "Radioactivity",
+      "artist": "The Routes",
+      "orig_artist": "Kraftwerk",
+      "album": "The Twang Machine",
+      "year": "2022"
+    },
+    {
+      "title": "California Dreamin'",
+      "artist": "Eddie Hazel",
+      "orig_artist": "The Mamas & the Papas",
+      "album": "Game, Dames and Guitar Thangs",
+      "year": "1977"
+    },
+    {
+      "title": "Give Me Your Love (Love Song)",
+      "artist": "Lambchop",
+      "orig_artist": "Curtis Mayfield",
+      "album": "What Another Man Spills",
+      "year": "2018"
+    },
+    {
+      "title": "Let the Mermaids Flirt With Me",
+      "artist": "Josiah Wolf",
+      "orig_artist": "Mississippi John Hurt",
+      "album": "Under Lovers Covers",
+      "year": "2010"
+    },
+    {
+      "title": "I Walked with a Zombie",
+      "artist": "R.E.M.",
+      "orig_artist": "Rocky Erickson",
+      "album": "Where The Pyramid Meets The Eye (A Tribute To Roky Erickson)",
+      "year": "2010"
+    },
+    {
+      "title": "Go All the Way",
+      "artist": "Matthew Sweet And Susanna Hoffs",
+      "orig_artist": "The Raspberries",
+      "album": "Under The Covers Vol. 2",
+      "year": "2015"
+    },
+    {
+      "title": "On A Day Like Today (orig. Bryan Adams)",
+      "artist": "Gichy Dan's Beachwood No. 9",
+      "orig_artist": "Todd Terje Friendly Children Edit",
+      "album": "Zevolution: Ze Records Re-Edited",
+      "year": "2009"
+    },
+    {
+      "title": "Where Eagles Dare",
+      "artist": "Katy Goodman/Greta Morgan",
+      "orig_artist": "Misfits",
+      "album": "Take It, It's Yours",
+      "year": "2016"
+    },
+    {
+      "title": "Black Magic Woman",
+      "artist": "Albert Kuvezin and Yat-Kha",
+      "orig_artist": "Carlos Santana",
+      "album": "Re-Covers",
+      "year": "2005"
+    },
+    {
+      "title": "Elusive Butterfly",
+      "artist": "The Kingston Trio",
+      "orig_artist": "Bob Lind",
+      "album": "Rarities, Vol. 1: The Lost 1967 Kingston Trio Album",
+      "year": "2013"
+    },
+    {
+      "title": "If It Don't Work Out",
+      "artist": "The Zombies",
+      "orig_artist": "Dusty Springfield",
+      "album": "R.I.P. - The Lost Album",
+      "year": "2010"
+    },
+    {
+      "title": "Hand In Glove",
+      "artist": "Sandie Shaw",
+      "orig_artist": "The Smiths",
+      "album": "The Very Best Of",
+      "year": "1999"
+    },
+    {
+      "title": "Ready for the Floor",
+      "artist": "The Pigeon Detectives",
+      "orig_artist": "Hot Chip",
+      "album": "BBC Radio 1's Live Lounge Volume 3",
+      "year": "2008"
+    },
+    {
+      "title": "Purple Haze",
+      "artist": "The Cure",
+      "orig_artist": "Jimi  Hendrix",
+      "album": "Stone Free: A Tribute To Jimi Hendrix ",
+      "year": "1993"
+    },
+    {
+      "title": "Tainted Love",
+      "artist": "Inspiral Carpets",
+      "orig_artist": "Soft Cell",
+      "album": "Ruby Trax - NME's Roaring Forty",
+      "year": "1992"
+    },
+    {
+      "title": "Victoria",
+      "artist": "Sonic Youth",
+      "orig_artist": "orig The Fall covering The Kinks",
+      "album": "4 Tunna Brix (BBC Radio 1 John Peel Session, rec. 11-Oct-1988, broadcast 19-Oct-1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Cumberland Gap",
+      "artist": "The Wedding Present",
+      "orig_artist": "Lonnie Donegan",
+      "album": "Ruby Trax - NME's Roaring Forty",
+      "year": "1992"
+    },
+    {
+      "title": "Love Will Tear Us Apart",
+      "artist": "The Shanes",
+      "orig_artist": "Joy Division",
+      "album": "Polka Over Serbja",
+      "year": "2007"
+    },
+    {
+      "title": "You Were On My Mind",
+      "artist": "Chan Pao Chu",
+      "orig_artist": "Ian & Sylvia",
+      "album": "Black Killer",
+      "year": "1967"
+    },
+    {
+      "title": "Suzanne",
+      "artist": "Nina Simone",
+      "orig_artist": "Leonard Cohen",
+      "album": "To Love Somebody",
+      "year": "2012"
+    }
+  ],
+  "html_path": "C:\\Users\\prob\\OneDrive\\Documents2\\hearmycovers\\playlists\\nuggets-411-covers-xxviii\\index.html",
+  "missing_art": []
+}
