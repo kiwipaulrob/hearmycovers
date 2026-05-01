@@ -234,5 +234,27 @@
         "url": "https://www.discogs.com/release/495560"
       }
     ]
+  },
+  "The Zombies|R.I.P. - The Lost Album": {
+    "mbid": "7aa6193a-b3b0-4122-9fcd-14c404a9995c",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2384825"
+      }
+    ]
+  },
+  "Portastatic|Looking For A Power Supply": {
+    "mbid": "fe24c04b-54f0-40b9-89e3-4fd3a2b2ff32",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.es/gp/product/B0009SC7PE"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3291455"
+      }
+    ]
   }
 }
