@@ -1,0 +1,210 @@
+{
+  "Grumpy Bear|Internet Single": {
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": []
+  },
+  "The Greencards|Viridian": {
+    "mbid": "299ff772-d707-47d6-8974-ba37c34f9b07",
+    "links": []
+  },
+  "Death Cab For Cutie|You Can Play These Songs With Chords": {
+    "mbid": null
+  },
+  "Theophilus London|This Charming Mixtape": {
+    "mbid": null
+  },
+  "Vampire Weekend|triple j: Like a Version": {
+    "mbid": "e0efcfb2-da78-497d-9b71-7f48825cd2ef",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://www.abc.net.au/triplej/like-a-version/vampire-weekend-covers-fleetwood-mac-everywhere-for-like-a-versi/102341710"
+      }
+    ]
+  },
+  "Snow & Voices|Snow & Voices": {
+    "mbid": "6d5b27b6-ad59-4825-949e-36f0583e76af",
+    "links": []
+  },
+  "Anna Ternheim|Shoreline": {
+    "mbid": "8fe72f59-3b98-4271-8ce9-48b1d880908a",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2076654"
+      }
+    ]
+  },
+  "Darren Hanlon|Like A Version Vol. 1": {
+    "mbid": "ef9870a2-28db-47b7-954a-fa52b007a1e4",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "http://www.phoningitin.net/shows/156-Darren-Hanlon"
+      }
+    ]
+  },
+  "Ben Gibbard|Internet Single": {
+    "mbid": "6245b9ff-417d-4c95-9e37-afd12567a988",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/1sNutFgLyiPBh5HtPeifLV"
+      }
+    ]
+  },
+  "This Mortal Coil|It'll End In Tears": {
+    "mbid": "190683fc-0a29-30e8-b439-f6915c98faf4",
+    "links": []
+  },
+  "Headless Heroes|The Silence Of Love": {
+    "mbid": "a16e76a4-3e35-4268-9fc9-08884e54eea2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B001H1Q99M"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1717537"
+      }
+    ]
+  },
+  "KT Tunstall|Drastic Fantastic": {
+    "mbid": "cb8dcefc-5606-4f6f-bdc3-7f7eac615561",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.de/gp/product/B000RLIYZA"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1070965"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.musik-sammler.de/media/889501/"
+      }
+    ]
+  },
+  "The Magic Numbers|I See You, You See Me": {
+    "mbid": "396811dc-5709-4633-a526-07e366145b75",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000E41KLK"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/634848"
+      }
+    ]
+  },
+  "Petra Haden|Internet Single": {
+    "mbid": "21d9768d-587d-4e29-a78a-28789e4035a2",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3444136"
+      }
+    ]
+  },
+  "The Antlers|Cold War": {
+    "mbid": "8f8c66c5-7b50-4988-8656-f70046c2cf3f",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4545857"
+      },
+      {
+        "type": "download for free",
+        "url": "http://antlersmusic.com/files/The_Antlers-Cold_War.zip"
+      },
+      {
+        "type": "download for free",
+        "url": "https://theantlers.bandcamp.com/album/cold-war"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://theantlers.bandcamp.com/album/cold-war"
+      }
+    ]
+  },
+  "Death Cab for Cutie|Good Music for Tsunami Relief": {
+    "mbid": "57396309-8812-46d2-9e5c-e7fc85a4018c",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/5312924"
+      }
+    ]
+  },
+  "Shugo Tokumaru|Internet Single": {
+    "mbid": "02c6153a-7a9d-49c2-a620-768f46fa83e7",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00130T6BA"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/624947"
+      }
+    ]
+  },
+  "Candy Claws|Glacier Prey": {
+    "mbid": "465597ef-e7b4-4f49-b100-982e5897dc79",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://candyclaws.bandcamp.com/album/glacier-prey"
+      }
+    ]
+  },
+  "Beck|Eternal Sunshine Of The Spotless Mind": {
+    "mbid": "cb52fbb0-977c-41df-b17d-a3bf2d2f9b1b",
+    "links": []
+  },
+  "Cassetteboy|Carry On Breathing": {
+    "mbid": "dac76694-e28a-45e8-8cd7-96e1b16ece79",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B0017RRDMI"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1352409"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "https://bleep.com/release/2076-cassetteboy-carry-on-breathing"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "https://boomkat.com/products/carry-on-breathing"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "https://www.banquetrecords.com/cassette-boy/carry-on-breathing/BAZ014"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "https://www.ebay.co.uk/p/66204391"
+      }
+    ]
+  },
+  "Hooverphonic|Rendez-Vous - 25 unieke covers uit 25 jaar Studio Brussel ": {
+    "mbid": "58d0e332-dd76-428f-b073-7a46da21c9d2",
+    "links": []
+  },
+  "The Close Lobsters|Nature Thing": {
+    "mbid": "90218bb5-e42d-4d18-9e99-5cf8a11659be",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1611154"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "The Jolly Boys|Great Expectation": {
+    "mbid": "46bb4637-14a0-46bf-83cf-e94f78269f21",
+    "links": []
+  },
+  "Ros Sereysothea|Cambodia Rocks Vol. 1": {
+    "mbid": "cbfc03b2-5fd0-4986-817b-08139d18c960",
+    "links": []
+  },
+  "Sky Ferreira|Soundcloud": {
+    "mbid": "960f6eaf-768f-4867-b537-aaea1478b3bb",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/bw/album/id793269579"
+      }
+    ]
+  },
+  "The Watson Twins|Live At Fingerprints": {
+    "mbid": "876385b6-c9b1-40a2-af7a-4ff46176dbc0",
+    "links": []
+  },
+  "Adele|Rarities, Covers And B-Sides": {
+    "mbid": "720de00f-7d08-465f-b926-3d3b6e5aa7fa",
+    "links": []
+  },
+  "Julian Lynch|Time After Time": {
+    "mbid": "63a3dc41-e7e0-4349-a841-ca8d90d9e9ef",
+    "links": []
+  },
+  "Zee Avi|College EP": {
+    "mbid": null
+  },
+  "Violent Femmes|Crazy": {
+    "mbid": "2df7162f-8a5a-469c-b1ea-80a639ec84cd",
+    "links": []
+  },
+  "Isaac Hayes|Hot Buttered Soul": {
+    "mbid": "8bce3d7e-4dae-44ef-b2a2-8f87735d3d9d",
+    "links": []
+  },
+  "Hot Chip|Over And Over": {
+    "mbid": "441105f8-1c52-4670-a9ae-32b547cfe2b3",
+    "links": []
+  },
+  "Local Natives|Gorilla Manor": {
+    "mbid": "ebe87ef8-0f4e-485e-86bf-9615c0542ce6",
+    "links": []
+  },
+  "M\u00e9lissa Laveaux|Single": {
+    "mbid": "b2b2e62f-55cf-4ccd-9dbc-fa3071e792ed",
+    "links": []
+  },
+  "Pavement|Major Leagues": {
+    "mbid": null
+  },
+  "Schneider TM featuring Kpt Michigan|Indietronica": {
+    "mbid": "09677246-28df-4989-8c29-45f9921eb6fe",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.de/gp/product/B00007LVCC"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/144764"
+      }
+    ]
+  },
+  "The Stranglers|Greatest Hits 1977-1990": {
+    "mbid": "4bfb7f9c-2992-4041-92bf-b39b8402612f",
+    "links": []
+  },
+  "schrodt & bucsics|s & b sessions": {
+    "mbid": null
+  },
+  "Miike Snow |Bonna Jamz": {
+    "mbid": "f8c29a05-b619-4301-8795-c4c2d98fbe7b",
+    "links": []
+  },
+  "David Bowie|Reality": {
+    "mbid": null
+  },
+  "Tom Adams|Internet Single": {
+    "mbid": null
+  },
+  "Amadou & Mariam|Chrome Music": {
+    "mbid": null
+  }
+}

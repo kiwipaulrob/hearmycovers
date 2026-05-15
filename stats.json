@@ -1,0 +1,121 @@
+{
+  "total_tracks": 862,
+  "total_playlists": 33,
+  "total_orig_artists": 405,
+  "total_cover_artists": 670,
+  "total_hours": 52.3,
+  "top_orig_artists": [
+    {
+      "artist": "Bob Dylan",
+      "count": 23
+    },
+    {
+      "artist": "The Rolling Stones",
+      "count": 20
+    },
+    {
+      "artist": "The Cure",
+      "count": 19
+    },
+    {
+      "artist": "The Beatles",
+      "count": 19
+    },
+    {
+      "artist": "Joy Division",
+      "count": 18
+    },
+    {
+      "artist": "The Smiths",
+      "count": 17
+    },
+    {
+      "artist": "Neil Young",
+      "count": 17
+    },
+    {
+      "artist": "David Bowie",
+      "count": 16
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "count": 12
+    },
+    {
+      "artist": "Kraftwerk",
+      "count": 11
+    }
+  ],
+  "songs_by_decade": [
+    {
+      "decade": 1960,
+      "count": 23
+    },
+    {
+      "decade": 1970,
+      "count": 25
+    },
+    {
+      "decade": 1980,
+      "count": 30
+    },
+    {
+      "decade": 1990,
+      "count": 82
+    },
+    {
+      "decade": 2000,
+      "count": 342
+    },
+    {
+      "decade": 2010,
+      "count": 293
+    },
+    {
+      "decade": 2020,
+      "count": 53
+    }
+  ],
+  "top_cover_artists": [
+    {
+      "artist": "Johnny Cash",
+      "count": 8
+    },
+    {
+      "artist": "The Feelies",
+      "count": 7
+    },
+    {
+      "artist": "The Wedding Present",
+      "count": 6
+    },
+    {
+      "artist": "Katy Goodman/Greta Morgan",
+      "count": 6
+    },
+    {
+      "artist": "Cat Power",
+      "count": 5
+    },
+    {
+      "artist": "Luna",
+      "count": 5
+    },
+    {
+      "artist": "The Routes",
+      "count": 5
+    },
+    {
+      "artist": "April March",
+      "count": 4
+    },
+    {
+      "artist": "The Jolly Boys",
+      "count": 4
+    },
+    {
+      "artist": "The Byrds",
+      "count": 4
+    }
+  ]
+}

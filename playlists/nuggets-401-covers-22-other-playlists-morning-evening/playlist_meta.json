@@ -1,0 +1,481 @@
+{
+  "name": "Nuggets 401 - Covers 22 - Other Playlists Morning + Evening",
+  "slug": "nuggets-401-covers-22-other-playlists-morning-evening",
+  "track_count": 66,
+  "year_range": "1968–2022",
+  "year_min": 1968,
+  "year_max": 2022,
+  "url": "playlists/nuggets-401-covers-22-other-playlists-morning-evening/",
+  "art_thumbnails": [
+    "img/01.jpg",
+    "img/02.jpg",
+    "img/03.jpg",
+    "img/04.jpg"
+  ],
+  "tracks": [
+    {
+      "title": "Don't Let Me Down",
+      "artist": "Dillard & Clark",
+      "orig_artist": "The Beatles",
+      "album": "Through The Morning, Through The Night",
+      "year": "1969"
+    },
+    {
+      "title": "Hollywood Forever Cemetery Sings",
+      "artist": "Tashaki Miyaki",
+      "orig_artist": "Father John Misty Cover",
+      "album": "Covers",
+      "year": "2012"
+    },
+    {
+      "title": "Baby",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "orig_artist": "Donnie & Joe Emerson",
+      "album": "Mature Themes",
+      "year": "2012"
+    },
+    {
+      "title": "Whole, Wide, World",
+      "artist": "Bahamas",
+      "orig_artist": "Wreckless Eric",
+      "album": "Oh Sweet Sun mixtape",
+      "year": "2009"
+    },
+    {
+      "title": "The House Of The Rising Sun",
+      "artist": "Wess & The Airedales",
+      "orig_artist": "The Animals",
+      "album": "Wess & The Airedales",
+      "year": "2020"
+    },
+    {
+      "title": "Waiting Around To Die",
+      "artist": "The Be Good Tanyas",
+      "orig_artist": "Townes Van Zandt",
+      "album": "A Collection (2000 - 2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Heaven's Ladder",
+      "artist": "Portland Cello Project, Patti King",
+      "orig_artist": "Beck",
+      "album": "Portland Cello Project Play Beck Hansen's Song Reader",
+      "year": "2012"
+    },
+    {
+      "title": "Sore Eyes",
+      "artist": "high dart",
+      "orig_artist": "Sun Sister",
+      "album": "Internet Single",
+      "year": "2012"
+    },
+    {
+      "title": "Psycho",
+      "artist": "Jack Kittel",
+      "orig_artist": "",
+      "album": "Psycho",
+      "year": "1974"
+    },
+    {
+      "title": "I Am Waiting",
+      "artist": "Jennifer",
+      "orig_artist": "The Rolling Stones",
+      "album": "I Can Remember Everything",
+      "year": "1968"
+    },
+    {
+      "title": "Swingin' Party",
+      "artist": "Jessica Jalbert doin' The Replacements",
+      "orig_artist": "The Replacements",
+      "album": "Swingin' Party",
+      "year": "2012"
+    },
+    {
+      "title": "Personal Jesus",
+      "artist": "Johnny Cash",
+      "orig_artist": "Depeche Mode",
+      "album": "American IV: The Man Comes Around",
+      "year": "2002"
+    },
+    {
+      "title": "Lodi",
+      "artist": "Advance Base",
+      "orig_artist": "Creedence Clearwater Revival",
+      "album": "Plastic Owen Band",
+      "year": "2014"
+    },
+    {
+      "title": "Lola",
+      "artist": "The Raincoats",
+      "orig_artist": "The Kinks",
+      "album": "The Raincoats [Vinyl]",
+      "year": "2009"
+    },
+    {
+      "title": "Sunny",
+      "artist": "Booker T., The MG's",
+      "orig_artist": "Bobby Hebb",
+      "album": "Hip Hug-Her",
+      "year": "1992"
+    },
+    {
+      "title": "Coconut Grove",
+      "artist": "The Dirty Shames",
+      "orig_artist": "The Lovin' Spoonful",
+      "album": "ROOTS OF HARD ROCK -US EDITION-",
+      "year": "2020"
+    },
+    {
+      "title": "Sound And Vision",
+      "artist": "Matthew Dear",
+      "orig_artist": "Bowie",
+      "album": "Life Beyond Mars - Bowie Covered",
+      "year": "2008"
+    },
+    {
+      "title": "Be My Baby",
+      "artist": "DM Stith",
+      "orig_artist": "Ronettes",
+      "album": "BMB EP",
+      "year": "2009"
+    },
+    {
+      "title": "Baby Love",
+      "artist": "Kate Nash",
+      "orig_artist": "The Supremes",
+      "album": "Internet Single",
+      "year": "2008"
+    },
+    {
+      "title": "Lay Baby Lay",
+      "artist": "Cher",
+      "orig_artist": "Bob Dylan",
+      "album": "3614 Jackson Highway",
+      "year": "1969"
+    },
+    {
+      "title": "There Goes My Baby",
+      "artist": "The Walkmen",
+      "orig_artist": "The Drifters",
+      "album": "Stubbs the Zombie",
+      "year": "2005"
+    },
+    {
+      "title": "Many Roads to Follow",
+      "artist": "Cut Worms",
+      "orig_artist": "orig, The Nerves",
+      "album": "Aquarium Drunkard: Lagniappe Sessions - Cut Worms",
+      "year": "2018"
+    },
+    {
+      "title": "Love Will Tear Us Apart",
+      "artist": "Vitamin String Quartet",
+      "orig_artist": "Joy Division",
+      "album": "The Gothic Wedding Collection",
+      "year": "2008"
+    },
+    {
+      "title": "Stayin Alive",
+      "artist": "Sunny War",
+      "orig_artist": "The Bee Gees",
+      "album": "Aquarium Drunkard: Lagniappe Sessions - Sunny War",
+      "year": "2020"
+    },
+    {
+      "title": "I'll Fly Away",
+      "artist": "Johnny Cash",
+      "orig_artist": "Albert E. Brumley / Selah Jubilee Singers",
+      "album": "Unearthed",
+      "year": "2003"
+    },
+    {
+      "title": "Don't Be Cruel",
+      "artist": "Billy Swan",
+      "orig_artist": "Elvis",
+      "album": "The Best Of Billy Swan",
+      "year": "1998"
+    },
+    {
+      "title": "I’m Not My Season",
+      "artist": "Alex Izenberg",
+      "orig_artist": "Fleet Foxes",
+      "album": "The Lagniappe Sessions :: Alex Izenberg (Second Session)",
+      "year": "2022"
+    },
+    {
+      "title": "Sleepyhead",
+      "artist": "Run Toto Run",
+      "orig_artist": "Passion Pit Cover",
+      "album": "Run Toto Run",
+      "year": "2009"
+    },
+    {
+      "title": "Femme Fatale",
+      "artist": "Beck",
+      "orig_artist": "The Velvet underground",
+      "album": "The Velvet Underground & Nico (Record Club version)",
+      "year": "2009"
+    },
+    {
+      "title": "Femme Fatale",
+      "artist": "Tracey Thorn",
+      "orig_artist": "Nico",
+      "album": "A Distant Shore",
+      "year": "1982"
+    },
+    {
+      "title": "Golden Brown",
+      "artist": "Teebs",
+      "orig_artist": "The Stranglers",
+      "album": "My Whole Life",
+      "year": "2007"
+    },
+    {
+      "title": "Walking The Cow",
+      "artist": "BAnanas Symphony",
+      "orig_artist": "Daniel Johnston",
+      "album": "What Can The Matter Be?",
+      "year": ""
+    },
+    {
+      "title": "God Only Knows",
+      "artist": "Dale Earnhardt Jr. Jr.",
+      "orig_artist": "The Beach Boys",
+      "album": "Horse Power EP",
+      "year": "2010"
+    },
+    {
+      "title": "Systematic Death",
+      "artist": "Jeffrey Lewis",
+      "orig_artist": "Crass",
+      "album": "Rough Trade Shops - Counter Culture 07 (Disc One)",
+      "year": "2008"
+    },
+    {
+      "title": "When I Grow Up",
+      "artist": "First Aid Kit",
+      "orig_artist": "Fever Ray",
+      "album": "Ghost Town",
+      "year": "2010"
+    },
+    {
+      "title": "Thirteen",
+      "artist": "Kathryn Williams",
+      "orig_artist": "Big Star",
+      "album": "Relations",
+      "year": "2004"
+    },
+    {
+      "title": "Bridges & Balloons",
+      "artist": "Azeda Booth",
+      "orig_artist": "Joanna Newsom",
+      "album": "Prospector's Insomnia",
+      "year": "2010"
+    },
+    {
+      "title": "Cars",
+      "artist": "Katzenjammers",
+      "orig_artist": "Gary Numan",
+      "album": "Rough Trade Shops: Counter Culture '05",
+      "year": "2006"
+    },
+    {
+      "title": "That's Not My Name",
+      "artist": "Dizzee Rascal & Calvin Harris",
+      "orig_artist": "The Ting Tings",
+      "album": "Live Lounge Vol. 3",
+      "year": "2008"
+    },
+    {
+      "title": "Lotta Love",
+      "artist": "Nicolette Larson",
+      "orig_artist": "org. Neil Young",
+      "album": "Nicolette",
+      "year": "2004"
+    },
+    {
+      "title": "Jealous Guy / Don't Let Me Down",
+      "artist": "Claudine Longet",
+      "orig_artist": "John Lennon",
+      "album": "Let's Spend The Night Together",
+      "year": "2007"
+    },
+    {
+      "title": "Lady Rachel",
+      "artist": "Allah-Las",
+      "orig_artist": "Kevin Ayers",
+      "album": "Aquarium Drunkard's Lagniappe Session",
+      "year": "2015"
+    },
+    {
+      "title": "Take Care",
+      "artist": "Yo La Tengo",
+      "orig_artist": "Big Star",
+      "album": "Summer Sun ",
+      "year": "2003"
+    },
+    {
+      "title": "A teenager in love",
+      "artist": "Bob Marley & The Wailers",
+      "orig_artist": "Dion and the Belmonts",
+      "album": "One Love at Studion One 1964-1966",
+      "year": "2006"
+    },
+    {
+      "title": "Dont Fear The Reaper",
+      "artist": "The Peptides",
+      "orig_artist": "Blue Öyster Cult",
+      "album": "North Hero",
+      "year": "2010"
+    },
+    {
+      "title": "The Book Of Right On (Pocketknife's Scowling Owl Remix)",
+      "artist": "Cousin Cole & Pocketknife",
+      "orig_artist": "Joanna Newsom",
+      "album": "Tambourine Dream",
+      "year": "2008"
+    },
+    {
+      "title": "Enda Vägen Ut",
+      "artist": "Northern Spies",
+      "orig_artist": "The Smittens",
+      "album": "My Middle Names",
+      "year": "2012"
+    },
+    {
+      "title": "A Whiter Shade of Pale",
+      "artist": "The Box Tops",
+      "orig_artist": "Procol Harum",
+      "album": "The Letter/Neon Rainbow",
+      "year": "2008"
+    },
+    {
+      "title": "Young Americans",
+      "artist": "Danny Michel",
+      "orig_artist": "David Bowie",
+      "album": "Loving The Alien: Danny Michel Sings The Songs Of David Bowie",
+      "year": "2004"
+    },
+    {
+      "title": "Lay Lady Lay",
+      "artist": "Pete Drake",
+      "orig_artist": "Bob Dylan",
+      "album": "At His Best",
+      "year": "2017"
+    },
+    {
+      "title": "Dolphins Dance With Our Music",
+      "artist": "Piyama Party",
+      "orig_artist": "The Swirlies",
+      "album": "Sneaky Flute Moods: A Tribute to the Swirlies",
+      "year": "2012"
+    },
+    {
+      "title": "So Sad",
+      "artist": "Dillard & Clark",
+      "orig_artist": "Everly Brothers",
+      "album": "Through The Morning, Through The Night",
+      "year": "1969"
+    },
+    {
+      "title": "My Kind of Woman",
+      "artist": "Night Beds",
+      "orig_artist": "Mac DeMarco",
+      "album": "Aquarium Drunkard: Lagniappe Sessions - Night Beds",
+      "year": "2013"
+    },
+    {
+      "title": "Half A Person",
+      "artist": "The Twilight Sad",
+      "orig_artist": "The Smiths",
+      "album": "Killed My Parents And Hit The Road",
+      "year": "2014"
+    },
+    {
+      "title": "Goth Star",
+      "artist": "Health",
+      "orig_artist": "Pictureplane",
+      "album": "Goth Star",
+      "year": "2011"
+    },
+    {
+      "title": "Mexican Bandits",
+      "artist": "Evergreen Day",
+      "orig_artist": "Felt",
+      "album": "A Tribute To Felt",
+      "year": "1995"
+    },
+    {
+      "title": "Drive",
+      "artist": "Britta Phillips",
+      "orig_artist": "The Cars",
+      "album": "Luck or Magic",
+      "year": "2016"
+    },
+    {
+      "title": "A Whiter Shade of Pale",
+      "artist": "Dan Reeder",
+      "orig_artist": "Procol Harum",
+      "album": "Sweetheart",
+      "year": "2016"
+    },
+    {
+      "title": "Jesus Etc",
+      "artist": "Sarah Humphreys",
+      "orig_artist": "Wilco",
+      "album": "Him",
+      "year": "2011"
+    },
+    {
+      "title": "New Orleans Instrumental No. 1",
+      "artist": "Figurines",
+      "orig_artist": "REM",
+      "album": "Stereogum Presents... DRIVE XV: A Tribute to Automatic For the People",
+      "year": "2007"
+    },
+    {
+      "title": "Sunday Morning",
+      "artist": "Matthew Sweet And Susanna Hoffs",
+      "orig_artist": "The Velvet Underground",
+      "album": "Under the Covers Vol. 3",
+      "year": "2008"
+    },
+    {
+      "title": "It's All Over Now, Baby Blue",
+      "artist": "The Chocolate Watch Band",
+      "orig_artist": "Bob Dylan",
+      "album": "The Inner Mystique",
+      "year": "1968"
+    },
+    {
+      "title": "Streets Of Phildadelphia (W/ Concern)",
+      "artist": "Casiotone For the Painfully Alone",
+      "orig_artist": "Bruce Springsteen",
+      "album": "Advance Base Battery Life",
+      "year": "2009"
+    },
+    {
+      "title": "Where Did Our Love Go?",
+      "artist": "Night shall eat these girls and boys",
+      "orig_artist": "The Supremes",
+      "album": "Live on WCBN",
+      "year": "2008"
+    },
+    {
+      "title": "Till the Morning Comes",
+      "artist": "Françoise Hardy",
+      "orig_artist": "Neil Young",
+      "album": "If You Listen",
+      "year": "1972"
+    },
+    {
+      "title": "Huos haenuy bong (it's too late)",
+      "artist": "Poev Vanary",
+      "orig_artist": "Carole King",
+      "album": "Cambodian Soul Sounds, Vol. 1",
+      "year": "2014"
+    }
+  ],
+  "html_path": "C:\\Users\\prob\\OneDrive\\Documents2\\hearmycovers\\playlists\\nuggets-401-covers-22-other-playlists-morning-evening\\index.html",
+  "missing_art": []
+}

@@ -1,0 +1,124 @@
+{
+  "Poolside|Pacific Standard Time": {
+    "mbid": "c1cc7a08-5069-4e29-808d-d5608707c900",
+    "links": []
+  },
+  "Evelyn Evelyn|Evelyn Evelyn": {
+    "mbid": "bc11915d-bec1-4e37-baf1-4c78d1508a82",
+    "links": []
+  },
+  "Lisa Mitchell|California": {
+    "mbid": "a79974bc-05e0-45b0-a95e-96ab4db482c1",
+    "links": []
+  },
+  "The Sea And Cake|One Bedroom": {
+    "mbid": null
+  },
+  "Tame Impala|Sundown Syndrome / Remember Me": {
+    "mbid": null
+  },
+  "Lucy Dacus|Dancing In The Dark": {
+    "mbid": "8c4debec-7265-452a-88d6-3cb3f4b9096d",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/album/dancing-in-the-dark-single/1477538753"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/album/1586462591"
+      }
+    ]
+  },
+  "William Fitzsimmons|Derivatives": {
+    "mbid": "2608d3ec-135b-30ab-a18c-fe8f9a0caf6c",
+    "links": []
+  },
+  "Trampled by Turtles|Where Is My Mind?": {
+    "mbid": "9b0119aa-6be2-41fe-812a-2113ec1d5666",
+    "links": []
+  },
+  "I Heart Hiroshima|Pink Frost": {
+    "mbid": "7fba2b0f-984d-40f9-bb90-e38151cb44d7",
+    "links": []
+  },
+  "Soccer Mommy|I'm On Fire": {
+    "mbid": "44e60e65-173c-480d-ac16-7f5be451df2b",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/1fwLr1J1BuLKl0gh4jsn7p"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/au/album/im-on-fire-single/1423639608"
+      }
+    ]
+  },
+  "Anni B Sweet|Start, Restart, Undo": {
+    "mbid": "79ea2bfc-27a1-44c8-94f0-3821b5bea652",
+    "links": []
+  },
+  "The Dirtbombs|If You Don't Already Have A Look": {
+    "mbid": "7d465b1e-49d5-4876-beac-032c0916cba0",
+    "links": []
+  },
+  "Freedom Fry|Linger": {
+    "mbid": "484abdc8-71c2-4146-89a7-8b071aafa6c5",
+    "links": []
+  },
+  "The Shacks|Crimson And Clover": {
+    "mbid": "8db9654f-9140-46d4-a386-c9f3fa8502fd",
+    "links": []
+  },
+  "Candi Staton|Stand By Your Man": {
+    "mbid": "c762c0f8-7706-407b-8285-51273bbc2ffd",
+    "links": []
+  },
+  "Lorde|Tennis Court": {
+    "mbid": "5d1991c1-a9a1-4f65-958a-62e629b01897",
+    "links": []
+  },
+  "Katy Goodman/Greta Morgan|Take It, It's Yours": {
+    "mbid": "f241143f-92b0-41bf-8673-03ea24aacce7",
+    "links": []
+  },
+  "Lana Del Rey|Born To Die - The Paradise Edition": {
+    "mbid": "80c03ee8-64a8-4e1e-a51b-4a0891d90618",
+    "links": []
+  },
+  "Electrelane|Singles, B-sides & Live": {
+    "mbid": "833ac478-fb61-4ab4-91a5-20945b386d9e",
+    "links": []
+  },
+  "Lara & The Trailers|Girls in the Garage (Oriental Special Edition)": {
+    "mbid": "3b7751b2-a367-4098-8696-b9bdca9b1d99",
+    "links": []
+  },
+  "Fadoul|Al Zman Saib (Habibi Funk 002)": {
+    "mbid": null
+  },
+  "Moose|...XYZ": {
+    "mbid": "ee846cb5-163e-4e3c-bb6e-c2803cd01ae2",
+    "links": []
+  },
+  "Anya Marina|Whatever You Like": {
+    "mbid": "28bc40d1-d01e-4a10-a136-c3489efbee93",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B002EHM0L4"
+      }
+    ]
+  },
+  "Luna|Best of Luna": {
+    "mbid": "8b35da17-36eb-4e2c-a7d5-21e769a36db1",
+    "links": []
+  },
+  "Naomi And The Boys|Girls in the Garage (Oriental Special Edition)": {
+    "mbid": null
+  },
+  "Brenton Wood|Rarities - The Double Shot / Whiz Years": {
+    "mbid": null
+  }
+}
