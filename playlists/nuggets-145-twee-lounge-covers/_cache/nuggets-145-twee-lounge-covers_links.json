@@ -24,7 +24,8 @@
     "links": []
   },
   "Anna Ternheim|Shoreline": {
-    "mbid": null
+    "mbid": "f7a81969-e9c3-4238-b47a-50320b225022",
+    "links": []
   },
   "Cake|Fashion Nugget": {
     "mbid": "a3e5cb45-a6ff-4b5a-881e-ff61abb9f458",
@@ -48,22 +49,48 @@
     ]
   },
   "Starfucker|Buffetlibre Rewind 2": {
-    "mbid": null
+    "mbid": "5ca8ad8b-7bf5-48a5-a191-cdbb2acf034c",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B01KWCMYSQ"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id1149065572"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "https://store.cdbaby.com/cd/folkuke4"
+      }
+    ]
   },
   "My Brightest Diamond|Les Inrockuptibles pr\u00e9sentent Reprises Inrocks - Vol. 01": {
     "mbid": null
   },
   "Architecture|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": []
   },
   "Cake|99 Best Covers Ever (IV) - The Killing Moon - Extra Value": {
     "mbid": null
   },
   "Richard Hawley|Hotel Room 45": {
-    "mbid": null
+    "mbid": "55b2c6ef-84f6-315e-b195-50a8c2d2cd7b",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B00005B9LE"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1331841"
+      }
+    ]
   },
   "Cat Power|I'm Not There (Music From The Motion Picture)": {
-    "mbid": null
+    "mbid": "f507ae1b-76c5-4dce-aba5-60df88fc005b",
+    "links": []
   },
   "Kathryn Williams|Relations": {
     "mbid": "b4133ba7-1cd6-451f-9a30-55972cf24215",
@@ -73,10 +100,17 @@
     "mbid": null
   },
   "MENSCH|Dance and Die - EP": {
-    "mbid": null
+    "mbid": "32f9a2e0-dba7-4077-8bd4-7cec8dad84f6",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/486647"
+      }
+    ]
   },
   "Sinn Sisamouth|Cambodian Rocks Volumes 1- 4 (Remastered)": {
-    "mbid": null
+    "mbid": "7ad30e61-1e36-40a5-98d2-08d2757762e8",
+    "links": []
   },
   "The Morning Benders|Daytrotter Session": {
     "mbid": null
@@ -89,5 +123,9 @@
         "url": "https://www.discogs.com/release/5469610"
       }
     ]
+  },
+  "Cake|Extra Value": {
+    "mbid": "c6a1cf82-498b-4b91-954a-41c42c219bb9",
+    "links": []
   }
 }

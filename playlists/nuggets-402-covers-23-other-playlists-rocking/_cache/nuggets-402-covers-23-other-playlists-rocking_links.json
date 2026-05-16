@@ -59,7 +59,8 @@
     "links": []
   },
   "Harlem|Cussers": {
-    "mbid": null
+    "mbid": "cc4e9e79-8546-4803-9c01-17a67a947a81",
+    "links": []
   },
   "Justin Townes Earle|Midnight at the Movies": {
     "mbid": "ed466915-3e74-4a0d-afd0-7f4fed49a339",
@@ -131,7 +132,8 @@
     "links": []
   },
   "Camera|A Psych Tribute to the Doors": {
-    "mbid": null
+    "mbid": "e61451f3-c460-4462-8bb6-fa129a77bf69",
+    "links": []
   },
   "Boyracer|To Get a Better Hold You've Got To Loosen Yr Grip": {
     "mbid": "777a9bb5-574b-4619-ba0f-b550811bf2c3",
@@ -142,10 +144,17 @@
     "links": []
   },
   "So Cow|The Go-Betweens cover": {
-    "mbid": null
+    "mbid": "66315c75-6552-4334-8a21-07b4b74a002f",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/7917571"
+      }
+    ]
   },
   "Sea Lions|All Right EP ": {
-    "mbid": null
+    "mbid": "2fdcec7e-da0a-4f21-a0b5-5f186c388814",
+    "links": []
   },
   "The xx|Internet Single": {
     "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
@@ -165,7 +174,8 @@
     "links": []
   },
   "She Trinity|Destroy That Boy! More Girls With Guitars (Ace)": {
-    "mbid": null
+    "mbid": "42a4ffc3-1be4-48e7-800a-31f835943bc0",
+    "links": []
   },
   "TV Torso|Internet Single": {
     "mbid": "e3e6d8a7-3e5b-435b-a3f2-2de5b98fbc2a",

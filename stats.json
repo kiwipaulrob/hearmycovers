@@ -1,13 +1,13 @@
 {
-  "total_tracks": 862,
+  "total_tracks": 853,
   "total_playlists": 33,
-  "total_orig_artists": 404,
+  "total_orig_artists": 405,
   "total_cover_artists": 671,
-  "total_hours": 52.3,
+  "total_hours": 51.7,
   "top_orig_artists": [
     {
       "artist": "Bob Dylan",
-      "count": 23
+      "count": 22
     },
     {
       "artist": "The Rolling Stones",
@@ -30,12 +30,12 @@
       "count": 17
     },
     {
-      "artist": "David Bowie",
+      "artist": "Neil Young",
       "count": 17
     },
     {
-      "artist": "Neil Young",
-      "count": 17
+      "artist": "David Bowie",
+      "count": 16
     },
     {
       "artist": "Fleetwood Mac",
@@ -61,15 +61,15 @@
     },
     {
       "decade": 1990,
-      "count": 82
+      "count": 81
     },
     {
       "decade": 2000,
-      "count": 342
+      "count": 336
     },
     {
       "decade": 2010,
-      "count": 293
+      "count": 291
     },
     {
       "decade": 2020,
@@ -94,10 +94,6 @@
       "count": 6
     },
     {
-      "artist": "Cat Power",
-      "count": 5
-    },
-    {
       "artist": "Luna",
       "count": 5
     },
@@ -106,15 +102,19 @@
       "count": 5
     },
     {
-      "artist": "April March",
-      "count": 4
-    },
-    {
       "artist": "The Jolly Boys",
       "count": 4
     },
     {
+      "artist": "Cat Power",
+      "count": 4
+    },
+    {
       "artist": "The Byrds",
+      "count": 4
+    },
+    {
+      "artist": "Nouvelle Vague",
       "count": 4
     }
   ]

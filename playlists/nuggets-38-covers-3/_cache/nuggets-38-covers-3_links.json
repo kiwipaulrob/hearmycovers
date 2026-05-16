@@ -38,10 +38,17 @@
     "links": []
   },
   "Liz Green|Mojo Presents: The White Album Recovered (N\u00b0 0000001)": {
-    "mbid": null
+    "mbid": "ec208d74-0218-4ac7-8534-b8a122f21eff",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1374708"
+      }
+    ]
   },
   "Placebo|Covers": {
-    "mbid": null
+    "mbid": "65ec2e9c-d0f5-38a4-a7d8-dad5b618b5a3",
+    "links": []
   },
   "The Wedding Present|Tommy": {
     "mbid": "be85412f-d4e3-356a-89db-25c6a863ae8e",
@@ -52,7 +59,8 @@
     "links": []
   },
   "Coltrane Motion|Internet Single": {
-    "mbid": null
+    "mbid": "a665dd0f-a6d6-4368-af12-c8a7ccc71751",
+    "links": []
   },
   "Joy Zipper|Dig for Fire: a Tribute to Pixies": {
     "mbid": "437d0b3d-eed1-4bee-aa17-5e4dc56b0df7",
@@ -67,14 +75,29 @@
     "links": []
   },
   "The Replacements|Closing Time (Live 1991)": {
-    "mbid": null
+    "mbid": "3d37fc8d-ad1a-41b9-86b9-fd1310faf7cc",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1404937"
+      },
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/single/the_replacements_midnight_oil/another_girl__another_planet___stand_in_line_f1.p/"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.musik-sammler.de/media/469709/"
+      }
+    ]
   },
   "Galaxie 500|This is Our Music": {
     "mbid": "6ad37f52-ee70-4269-869e-57721d9155e1",
     "links": []
   },
   "Sea Power|Independents Day 08": {
-    "mbid": null
+    "mbid": "b28790c4-e8d8-436a-8e5b-9fa52d9109bd",
+    "links": []
   },
   "The Detroit Cobras|In Covers We Trust 05": {
     "mbid": "7150bbcd-c9d1-4900-ab1e-99b3783932c6",
@@ -85,7 +108,8 @@
     "links": []
   },
   "Sonny & Cher|The Singles + (CD2)": {
-    "mbid": null
+    "mbid": "f6e8dbdc-6ddd-4a27-a16a-3c2e8883bb3d",
+    "links": []
   },
   "Penny Broadhurst|The Jesus and Mary Chain Covers Project": {
     "mbid": "f2af2f42-1faa-409d-8530-81f105156d8d",

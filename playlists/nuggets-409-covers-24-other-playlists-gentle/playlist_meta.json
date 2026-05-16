@@ -1,7 +1,7 @@
 {
   "name": "Nuggets 409 - Covers 24 - Other Playlists - Gentle",
   "slug": "nuggets-409-covers-24-other-playlists-gentle",
-  "track_count": 38,
+  "track_count": 34,
   "year_range": "1969–2023",
   "year_min": 1969,
   "year_max": 2023,
@@ -13,6 +13,13 @@
     "img/04.jpg"
   ],
   "tracks": [
+    {
+      "title": "Ain't No Sunshine When She's Gone",
+      "artist": "The Equatics",
+      "orig_artist": "Bill Withers",
+      "album": "Doin It!!!!",
+      "year": "1972"
+    },
     {
       "title": "Ceremony",
       "artist": "Galaxie 500",
@@ -182,13 +189,6 @@
       "year": "2010"
     },
     {
-      "title": "Mr. Bojangles",
-      "artist": "Nina Simone ",
-      "orig_artist": "Jerry Jeff Walker",
-      "album": "Here Comes The Sun",
-      "year": "2012"
-    },
-    {
       "title": "First Of The Gang To Die",
       "artist": "Zee Avi",
       "orig_artist": "The Smiths",
@@ -224,32 +224,11 @@
       "year": "2007"
     },
     {
-      "title": "Cet Air-La",
-      "artist": "April March",
-      "orig_artist": "France Gall",
-      "album": "Chick Habit",
-      "year": "1995"
-    },
-    {
       "title": "The Wolves (Act I and II)",
       "artist": "Ellie Goulding",
       "orig_artist": "Bon Iver",
       "album": "Internet Single",
       "year": "2009"
-    },
-    {
-      "title": "Ain't No Sunshine When She's Gone",
-      "artist": "The Equatics",
-      "orig_artist": "Bill Withers",
-      "album": "Doin It!!!!",
-      "year": "1972"
-    },
-    {
-      "title": "Sunny",
-      "artist": "Montefiori Cocktail",
-      "orig_artist": "Bobby Hebb",
-      "album": "Raccolta Nº2",
-      "year": "2002"
     },
     {
       "title": "Martha My Dear",
@@ -271,13 +250,6 @@
       "orig_artist": "Grizzly Bear",
       "album": "c o v e r r s (2007-2015)",
       "year": "2020"
-    },
-    {
-      "title": "Who Doesn't Love (Sugar, Sugar) (orig. The Archies) ",
-      "artist": "Sinn Sisamouth",
-      "orig_artist": "",
-      "album": "Cambodian Rocks Volumes 1- 4 (Remastered)",
-      "year": "2016"
     }
   ],
   "html_path": "C:\\Users\\prob\\OneDrive\\Documents2\\hearmycovers\\playlists\\nuggets-409-covers-24-other-playlists-gentle\\index.html",

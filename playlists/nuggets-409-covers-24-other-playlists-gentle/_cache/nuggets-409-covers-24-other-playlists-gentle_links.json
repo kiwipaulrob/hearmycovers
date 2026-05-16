@@ -45,13 +45,24 @@
     ]
   },
   "American Music Club|If I Were A Carpenter": {
-    "mbid": null
+    "mbid": "756a9d36-f1a1-4e78-b5cc-8ff5f9c278f5",
+    "links": []
   },
   "Acetone|Light in the Attic & Friends": {
     "mbid": null
   },
   "Vashti Bunyan; Devendra Banhart|Light in the Attic & Friends": {
-    "mbid": null
+    "mbid": "25f1e28d-d795-43dc-9d94-4fb4d99c3186",
+    "links": [
+      {
+        "type": "discography entry",
+        "url": "https://recordstoreday.com/SpecialRelease/16376"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/29007841"
+      }
+    ]
   },
   "The Radio Dept.|Bachelor Kisses": {
     "mbid": "0c733562-d53a-4049-ba55-b2ae80119331",
@@ -86,7 +97,13 @@
     "links": []
   },
   "Cracker|If I Were A Carpenter": {
-    "mbid": null
+    "mbid": "26b28cdd-283c-43b6-83b9-379204028af7",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/7807969"
+      }
+    ]
   },
   "Nina Simone |Here Comes The Sun": {
     "mbid": "8d856598-9599-4ab2-959b-1ac7bad91ac0",

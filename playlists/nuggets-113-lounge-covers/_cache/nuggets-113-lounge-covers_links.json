@@ -29,7 +29,8 @@
     "links": []
   },
   "St. Vincent and The National|Score! 20 Years Of Merge Records: The Covers!": {
-    "mbid": null
+    "mbid": "a240c8dc-4b5e-4041-8409-2eb0efc6b27a",
+    "links": []
   },
   "April March|Chick Habit": {
     "mbid": "b207c5c9-4755-4f09-b516-d9925c873fde",
@@ -40,27 +41,82 @@
     "links": []
   },
   "Seabear|A number of small things": {
-    "mbid": null
+    "mbid": "cae974fb-b84a-41db-bacd-eb26e527dcf7",
+    "links": []
   },
   "Ray Lamontagne|Jolene": {
     "mbid": "77adb68a-6c4d-4ece-8c8e-f5c3a54eb2af",
     "links": []
   },
   "Twinkle|Terry / Golden Lights": {
-    "mbid": null
+    "mbid": "547c74a6-a728-4ca8-9cf9-af8f9ec7b7f4",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0CNHRKN2P"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://jazzhopcafe.bandcamp.com/track/twinkle-twinkle-twinkle"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/3SPEtg1sPDxz7hRwP6x4B4"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://soundcloud.com/jazzhopcafe/fugee-twinkle-twinkle-twinkle"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/513460151"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://music.apple.com/us/album/1716945244"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.amazon.com/albums/B0CNHRKN2P"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/album/1716945244"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_ncHNs7-XEgfxFGHG7afhHVFTAm9b4Kn6g"
+      },
+      {
+        "type": "streaming",
+        "url": "https://tidal.com/album/329216389"
+      }
+    ]
   },
   "Ken Nordine|Monsters Sounds & \"Boppin'\" Tracks Vol. 1": {
-    "mbid": null
+    "mbid": "7ec64128-e2a1-4a93-b30d-0208a56ddfbd",
+    "links": []
   },
   "Professor Longhair|Big Chief": {
     "mbid": "6ed43961-f087-4914-ba6b-bbd0f66d9c94",
     "links": []
   },
   "Beat Happening|You Turn Me On": {
-    "mbid": null
+    "mbid": "ec7c348d-5880-36ad-b38e-60feff368fa8",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000244F1E"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1037781"
+      }
+    ]
   },
   "Ruby And The Romantics|When You're Young And In Love / I Cry Alone": {
-    "mbid": null
+    "mbid": "09b5f873-8e26-4e81-945e-04add820cfff",
+    "links": []
   },
   "Nina Simone |Here Comes The Sun": {
     "mbid": "8d856598-9599-4ab2-959b-1ac7bad91ac0",
@@ -71,7 +127,8 @@
     "links": []
   },
   "Yellow Hand|Yellow Hand": {
-    "mbid": null
+    "mbid": "2f467068-3dbf-400b-9a4d-997317f6b9b3",
+    "links": []
   },
   "Evie Sands|I Can't Let Go / You've Got Me Up Tight": {
     "mbid": "c1fa6c44-0473-4820-a04c-ed02403b4040",
@@ -103,5 +160,13 @@
   },
   "Dirty Summer|Pod Fodder 3": {
     "mbid": null
+  },
+  "The Bird And The Bee|I'm Into Something Good - Single": {
+    "mbid": "a2725d6a-f9aa-4b52-8656-4aece3932452",
+    "links": []
+  },
+  "Dirty Summer|Dirty Summer EP": {
+    "mbid": "6b827c21-b9d9-4200-ae15-1b0a624ad44a",
+    "links": []
   }
 }
