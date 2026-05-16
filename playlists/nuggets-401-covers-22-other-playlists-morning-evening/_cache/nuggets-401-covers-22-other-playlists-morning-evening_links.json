@@ -15,14 +15,21 @@
     "mbid": null
   },
   "Wess & The Airedales|Wess & The Airedales": {
-    "mbid": null
+    "mbid": "3f40ea23-71f4-40e9-a6ac-dfb6cd512429",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3991679"
+      }
+    ]
   },
   "Jack Kittel|Psycho": {
     "mbid": "5d469752-7178-4662-ad2d-cac99fd1a45f",
     "links": []
   },
   "The Be Good Tanyas|A Collection (2000 - 2012)": {
-    "mbid": null
+    "mbid": "75354277-f5fd-4d94-8173-87fa976149b5",
+    "links": []
   },
   "Portland Cello Project, Patti King|Portland Cello Project Play Beck Hansen's Song Reader": {
     "mbid": "54f273ef-780d-446c-bbb4-b4f59b4024af",
@@ -62,7 +69,13 @@
     "links": []
   },
   "The Raincoats|The Raincoats [Vinyl]": {
-    "mbid": null
+    "mbid": "7c4d0bd8-c87d-456c-b7c0-b21a6ef6cb24",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2439163"
+      }
+    ]
   },
   "Matthew Dear|Life Beyond Mars - Bowie Covered": {
     "mbid": "4507120f-f40c-4e12-8c7f-7f2d95d34904",
@@ -73,7 +86,13 @@
     "links": []
   },
   "Booker T., The MG's|Hip Hug-Her": {
-    "mbid": null
+    "mbid": "a3b95708-a507-42d3-929a-25b73f4d9b04",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.jp/gp/product/B0816L4K29"
+      }
+    ]
   },
   "The Dirty Shames|ROOTS OF HARD ROCK -US EDITION-": {
     "mbid": "d28ee3e0-4183-4db8-a70b-c1057a6b8efa",

@@ -70,8 +70,8 @@
     "track_count": 22
   },
   "nuggets-357-covers-12-isolations-covers-2": {
-    "xml_hash": "d6ea5abc991169f387fa7fc641b4ce42",
-    "built_at": "2026-05-15T23:03:06.148703+00:00",
+    "xml_hash": "c16beeefdc696bccce251ddbe08f939f",
+    "built_at": "2026-05-16T06:15:08.439644+00:00",
     "track_count": 26
   },
   "nuggets-38-covers-3": {
@@ -85,13 +85,13 @@
     "track_count": 24
   },
   "nuggets-381-covers-14-rocky": {
-    "xml_hash": "94632a6f1c3c0049caaf419601a1f033",
-    "built_at": "2026-05-15T23:04:15.877422+00:00",
+    "xml_hash": "7f5d861cac248327dbebca2b11f78a3c",
+    "built_at": "2026-05-16T06:15:26.143841+00:00",
     "track_count": 24
   },
   "nuggets-392-covers-16-morning": {
-    "xml_hash": "c42b8e0376810ee829d67648e4ae761e",
-    "built_at": "2026-05-16T05:56:16.109422+00:00",
+    "xml_hash": "435c5e30554898547e90a4116aa64c09",
+    "built_at": "2026-05-16T19:10:44.507639+00:00",
     "track_count": 22
   },
   "nuggets-391-covers-26-other-playlists-beaty": {
@@ -100,8 +100,8 @@
     "track_count": 25
   },
   "nuggets-395-covers-17": {
-    "xml_hash": "6f6ed4795cc86312af9957b46183a3bb",
-    "built_at": "2026-05-15T23:05:36.369174+00:00",
+    "xml_hash": "73d1ff3b49ce2219ba071e22db8b25b2",
+    "built_at": "2026-05-16T19:10:29.007820+00:00",
     "track_count": 23
   },
   "nuggets-396-covers-20": {
@@ -135,8 +135,8 @@
     "track_count": 25
   },
   "nuggets-401-covers-22-other-playlists-morning-evening": {
-    "xml_hash": "933bfb81205663d473bff7b395e209ce",
-    "built_at": "2026-05-16T05:57:37.911154+00:00",
+    "xml_hash": "3fdb1539ceba0faf08640736bf8b92fb",
+    "built_at": "2026-05-16T19:10:32.795789+00:00",
     "track_count": 66
   },
   "nuggets-413-covers-30": {
@@ -163,5 +163,20 @@
     "xml_hash": "5ce6db7e1ef680b50f8719f5d0f60cbd",
     "built_at": "2026-05-15T23:10:46.055137+00:00",
     "track_count": 22
+  },
+  "nuggets-413-covers-15": {
+    "xml_hash": "1ea618f0f0ea2de1cf8654e15c97e0ec",
+    "built_at": "2026-05-16T06:16:07.885860+00:00",
+    "track_count": 25
+  },
+  "nuggets-333-covers-30-quirky": {
+    "xml_hash": "9bc6874c8f9c8b75228ff3c29a087527",
+    "built_at": "2026-05-16T06:16:09.062562+00:00",
+    "track_count": 23
+  },
+  "nuggets-414-covers-18-instrumental": {
+    "xml_hash": "7d4e5bac29d52e29c172881c73683611",
+    "built_at": "2026-05-16T06:16:34.710367+00:00",
+    "track_count": 23
   }
 }

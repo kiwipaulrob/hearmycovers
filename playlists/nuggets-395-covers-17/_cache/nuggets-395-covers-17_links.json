@@ -20,7 +20,13 @@
     "links": []
   },
   "David Kilgour & Martin Phillipps|We're All Normal And We Want Our Freedom - A Tribute To Arthur Lee And Love": {
-    "mbid": null
+    "mbid": "808049e9-7fbb-46f7-89fc-596886d78ddb",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2540651"
+      }
+    ]
   },
   "Alejandro Escovedo|Bourbonitis Blues": {
     "mbid": "b377ca3a-c1ca-4127-be7b-501471997dfd",
@@ -48,10 +54,30 @@
     ]
   },
   "Beige|Internet Single": {
-    "mbid": null
+    "mbid": "07208d73-8aef-4d1e-86d8-f8ee4f8a09ca",
+    "links": [
+      {
+        "type": "discography entry",
+        "url": "http://www.pietrofornara.com/"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://www.beatport.com/release/walk-in-the-park-single/1527944"
+      }
+    ]
   },
   "Marianne Faithfull|Negative Capability": {
-    "mbid": null
+    "mbid": "e87b0301-54f1-48ca-a85b-a78c2756a505",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id1435145254"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1435145254"
+      }
+    ]
   },
   "Rose Melberg|September": {
     "mbid": "254878fb-a660-4de8-a022-581c210ee752",
@@ -66,10 +92,25 @@
     "links": []
   },
   "Zola Jesus feat. Dead Luke |POST": {
-    "mbid": null
+    "mbid": "ca8530b0-d0a4-400a-8304-f5480f596a9c",
+    "links": []
   },
   "Best Coast|Just Tell Me That You Want Me \u2012 A Tribute To Fleetwood Mac": {
-    "mbid": null
+    "mbid": "cbe2f461-f04b-4195-a1ca-fa74d3b86948",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2005710"
+      },
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/ep/best-coast/best-coast.p/"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/release/54832"
+      }
+    ]
   },
   "Mathilde Santing|Forty Nine": {
     "mbid": "4533718d-28ba-4551-9302-ed5286bfc8a0",
@@ -80,7 +121,17 @@
     "links": []
   },
   "The Jam|The Gift (Deluxe Edition)": {
-    "mbid": null
+    "mbid": "efefa3c4-7e8f-4fe2-903a-9a3161619e0c",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2242767"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.45cat.com/record/2011091"
+      }
+    ]
   },
   "Sam Amidon|BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine": {
     "mbid": "57a7e382-cad1-4925-a4a2-6a7e1c38ee3a",
@@ -112,6 +163,7 @@
     "links": []
   },
   "Neon Indian|Internet Single": {
-    "mbid": null
+    "mbid": "d45ad434-a462-47d4-885d-c372da3472ad",
+    "links": []
   }
 }

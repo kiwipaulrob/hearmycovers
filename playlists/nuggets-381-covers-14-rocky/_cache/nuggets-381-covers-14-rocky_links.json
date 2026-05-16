@@ -33,14 +33,16 @@
     "links": []
   },
   "Iron & Wine|Around the Well": {
-    "mbid": null
+    "mbid": "58173200-3e0a-47c7-b5c0-a6af53880506",
+    "links": []
   },
   "The Gun Club|Miami": {
     "mbid": "b5511ce1-e0f2-46d4-ae9d-b6732840a789",
     "links": []
   },
   "AKA Gelbart|Please Please Me": {
-    "mbid": null
+    "mbid": "0f91c8cb-f08f-4dfb-b568-510bfb1d3852",
+    "links": []
   },
   "Pixies|Trompe le Monde": {
     "mbid": "628290b1-de13-43fb-b159-2c209da83526",
@@ -99,9 +101,29 @@
     "links": []
   },
   "The Cambodian Space Project|Angkor Pop! A Cambodian Tribute to Iggy Pop": {
-    "mbid": null
+    "mbid": "051d750f-5d73-4ce5-ae40-f9b370db0b18",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B0000087KD"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/835943"
+      }
+    ]
   },
   "The KVB|Stoned - A Psych Tribute to the Rolling Stones": {
-    "mbid": null
+    "mbid": "e1241a39-3e0a-3412-bd3c-322ddcd27f67",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000057I58"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/218555"
+      }
+    ]
   }
 }
