@@ -86,7 +86,7 @@
     {
       "title": "Jesus Is Just Alright",
       "artist": "The Byrds",
-      "orig_artist": "Art Reynolds / The Doobie Brothers",
+      "orig_artist": "Art Reynolds",
       "album": "Ballad Of Easy Rider",
       "year": "1997"
     },
@@ -105,9 +105,9 @@
       "year": "2009"
     },
     {
-      "title": "Alone Again Or",
-      "artist": "Calexico",
-      "orig_artist": "With Nicolai Dunger and His Band",
+      "title": "Alone Again Or (orig. Love) ",
+      "artist": "Calexico w/Nicolai Dunger and His Band",
+      "orig_artist": "",
       "album": "Convict Pool",
       "year": "2004"
     },
@@ -268,7 +268,7 @@
     {
       "title": "My Fair Baby's Coming For Me",
       "artist": "TV Torso",
-      "orig_artist": "Joe Meek/Paul Kane",
+      "orig_artist": "Joe Meek Orchestra with Paul Kane",
       "album": "Internet Single",
       "year": "2011"
     },

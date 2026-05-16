@@ -28,13 +28,21 @@
     "links": []
   },
   "Codeine|When I See the Sun": {
-    "mbid": null
+    "mbid": "fbc242f5-52d7-4af2-8c1d-9bf449fdf7f8",
+    "links": []
   },
   "Bill Callahan|Loving Takes This Course - a Tribute to the Songs of Kath Bloom": {
-    "mbid": null
+    "mbid": "372148e8-d65f-46c8-aea0-44006607e07b",
+    "links": []
   },
   "The Bilinda Butchers|beko_14": {
-    "mbid": null
+    "mbid": "104f6205-d7bd-42a0-899b-d5fd446a8c6d",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2263225"
+      }
+    ]
   },
   "American Music Club|If I Were A Carpenter": {
     "mbid": null
@@ -66,7 +74,8 @@
     "links": []
   },
   "Waskerley Way|Pinglewood's Ariel Pink Special - Soundtrack EP": {
-    "mbid": null
+    "mbid": "3766e96c-10f4-42ec-806b-625e8c5743d7",
+    "links": []
   },
   "Taken By Trees|East of Eden": {
     "mbid": "ab64db97-eb96-44be-8cc7-e3397321aa32",
@@ -92,7 +101,8 @@
     "links": []
   },
   "Grizzly Bear|B-Sides & Demos": {
-    "mbid": null
+    "mbid": "b885b4a2-b358-44ff-b0cb-fef7014a67e8",
+    "links": []
   },
   "Memoryhouse|Foreground": {
     "mbid": "e33c6e6c-d0cf-4c56-abe8-c37bfa649dd4",
@@ -111,7 +121,17 @@
     "links": []
   },
   "Division Day|Covers/Remixes": {
-    "mbid": null
+    "mbid": "2941775f-a74c-4d67-beaf-59d9a1bc7ece",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/8726073"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "https://davehodgesofficial.bigcartel.com/product/trading-yesterday-more-than-this"
+      }
+    ]
   },
   "Luna|Guilt By Association": {
     "mbid": "06927ae2-b588-4d83-9efb-11da0b2f0f96",
@@ -137,9 +157,25 @@
     ]
   },
   "Ruby Weapon|c o v e r r s (2007-2015)": {
-    "mbid": null
+    "mbid": "f86520b2-9d3e-4310-9908-3d9e253f1056",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1841095"
+      }
+    ]
   },
   "Sinn Sisamouth|Cambodian Rocks Volumes 1- 4 (Remastered)": {
-    "mbid": null
+    "mbid": "7ad30e61-1e36-40a5-98d2-08d2757762e8",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B007WVOINK"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/1VgK9kmjQ9U0YnvxQZUE1j"
+      }
+    ]
   }
 }

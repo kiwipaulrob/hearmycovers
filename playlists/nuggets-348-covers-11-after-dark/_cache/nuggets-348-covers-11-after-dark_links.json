@@ -21,7 +21,8 @@
     "links": []
   },
   "Pavement|What\u2019s Up Matador": {
-    "mbid": null
+    "mbid": "ebc72cc9-1a33-3a4c-b363-0d76a62b43fe",
+    "links": []
   },
   "Nouvelle Vague|Bande \u00e0 Part": {
     "mbid": "3d73d2fe-9533-4e19-a114-6b6ffa99cfa1",
@@ -85,13 +86,20 @@
     ]
   },
   "Gene Clark|Gene Clark (aka White Light) 1971": {
-    "mbid": null
+    "mbid": "b4834316-9a3e-45be-b7bd-9f1cf9537b2a",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000068PQ7"
+      }
+    ]
   },
   "Lali Puna|Not Given Lightly - A Tribute To The Giant Golden Book Of New Zealands Alternative Music Scene": {
     "mbid": null
   },
   "The Primitives|The Coventry Demo's": {
-    "mbid": null
+    "mbid": "0e35e550-42b4-4544-b0e2-04aec600de48",
+    "links": []
   },
   "Spiritualized|Me And You And Everyone We Know": {
     "mbid": "93d369da-0574-4471-a063-c64756163dd7",
@@ -102,6 +110,7 @@
     "links": []
   },
   "Sinn Sisamouth|Cambodian Rocks Volumes 1- 4 (Remastered)": {
-    "mbid": null
+    "mbid": "7ad30e61-1e36-40a5-98d2-08d2757762e8",
+    "links": []
   }
 }

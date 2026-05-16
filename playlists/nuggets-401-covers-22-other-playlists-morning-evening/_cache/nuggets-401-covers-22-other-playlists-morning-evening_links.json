@@ -25,10 +25,12 @@
     "mbid": null
   },
   "Portland Cello Project, Patti King|Portland Cello Project Play Beck Hansen's Song Reader": {
-    "mbid": null
+    "mbid": "54f273ef-780d-446c-bbb4-b4f59b4024af",
+    "links": []
   },
   "high dart|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": []
   },
   "Johnny Cash|American IV: The Man Comes Around": {
     "mbid": "9e8c6767-c29e-4b34-9842-a4def745359b",
@@ -56,7 +58,8 @@
     ]
   },
   "Jennifer|I Can Remember Everything": {
-    "mbid": null
+    "mbid": "e7775b2f-135c-4b13-a4cb-e8c84fc0e639",
+    "links": []
   },
   "The Raincoats|The Raincoats [Vinyl]": {
     "mbid": null
@@ -73,7 +76,8 @@
     "mbid": null
   },
   "The Dirty Shames|ROOTS OF HARD ROCK -US EDITION-": {
-    "mbid": null
+    "mbid": "d28ee3e0-4183-4db8-a70b-c1057a6b8efa",
+    "links": []
   },
   "Kate Nash|Internet Single": {
     "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
@@ -88,10 +92,33 @@
     "links": []
   },
   "The Walkmen|Stubbs the Zombie": {
-    "mbid": null
+    "mbid": "66b81ae0-25da-4c28-9cd0-c03adbf419ed",
+    "links": []
   },
   "Cut Worms|Aquarium Drunkard: Lagniappe Sessions - Cut Worms": {
-    "mbid": null
+    "mbid": "4631326a-388f-4c07-bdc0-9ac68c948495",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/436592037"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1685953042"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/us/album/1685953042"
+      },
+      {
+        "type": "streaming",
+        "url": "https://play.qobuz.com/album/wt7hko4xntlha"
+      }
+    ]
   },
   "Vitamin String Quartet|The Gothic Wedding Collection": {
     "mbid": "c8fbddb4-a00f-40d0-877f-f0ed51c62d04",
@@ -102,7 +129,25 @@
     "links": []
   },
   "Sunny War|Aquarium Drunkard: Lagniappe Sessions - Sunny War": {
-    "mbid": null
+    "mbid": "e76baf23-dc34-44d4-a103-4ed28bfa81d1",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://henhousestudios.bandcamp.com/album/sunny-war-with-the-sun"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://sunnywar.bandcamp.com/album/with-the-sun-2"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://henhousestudios.bandcamp.com/album/sunny-war-with-the-sun"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://sunnywar.bandcamp.com/album/with-the-sun-2"
+      }
+    ]
   },
   "Run Toto Run|Run Toto Run": {
     "mbid": "00ff3ab9-34ba-4573-bb87-cd4c56fb33f3",
@@ -117,27 +162,37 @@
     "links": []
   },
   "Beck|The Velvet Underground & Nico (Record Club version)": {
-    "mbid": null
+    "mbid": "92c287f2-9dbc-4245-ae67-3c3a0159d09e",
+    "links": []
   },
   "Teebs|My Whole Life": {
-    "mbid": null
+    "mbid": "e1c71e0c-3afe-4009-9168-c2b83638ee05",
+    "links": []
   },
   "First Aid Kit|Ghost Town": {
     "mbid": "2577fd74-7b4a-3944-9219-9863d0b166d6",
     "links": []
   },
   "BAnanas Symphony|What Can The Matter Be?": {
-    "mbid": null
+    "mbid": "756c85e0-95a0-4021-83a8-8a976ccde4ca",
+    "links": []
   },
   "Dale Earnhardt Jr. Jr.|Horse Power EP": {
-    "mbid": null
+    "mbid": "2bc376f3-6e44-4c73-b624-5770a4ad5178",
+    "links": []
   },
   "Kathryn Williams|Relations": {
     "mbid": "b4133ba7-1cd6-451f-9a30-55972cf24215",
     "links": []
   },
   "Jeffrey Lewis|Rough Trade Shops - Counter Culture 07 (Disc One)": {
-    "mbid": null
+    "mbid": "3bbccd13-9fe3-4d3b-8a26-389b71c34d59",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://jeffreylewis.bandcamp.com/album/jeffrey-lewis-the-jrams-8"
+      }
+    ]
   },
   "Nicolette Larson|Nicolette": {
     "mbid": "5ad737b7-7a4c-488d-8219-df00786c597e",
@@ -148,10 +203,21 @@
     "links": []
   },
   "Azeda Booth|Prospector's Insomnia": {
-    "mbid": null
+    "mbid": "3453410d-0dab-428b-9984-62feb69de4b1",
+    "links": []
   },
   "Katzenjammers|Rough Trade Shops: Counter Culture '05": {
-    "mbid": null
+    "mbid": "b80f3b30-9cf6-4505-acbb-c2c2aac5cbb8",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000CQJZ76"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/616915"
+      }
+    ]
   },
   "Dizzee Rascal & Calvin Harris|Live Lounge Vol. 3": {
     "mbid": "c1ef3bf4-0580-4ccf-8ea4-911e3062a096",
@@ -182,24 +248,42 @@
     "links": []
   },
   "Cousin Cole & Pocketknife|Tambourine Dream": {
-    "mbid": null
+    "mbid": "3aecf485-4acd-46a0-9004-0984ce6dd09e",
+    "links": []
   },
   "The Box Tops|The Letter/Neon Rainbow": {
     "mbid": "f524253d-1a7b-47d3-9f3c-0c9cb5344375",
     "links": []
   },
   "Danny Michel|Loving The Alien: Danny Michel Sings The Songs Of David Bowie": {
-    "mbid": null
+    "mbid": "17ab4481-b60f-481a-8606-ace4c9b6ef5e",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/8384228"
+      }
+    ]
   },
   "Health|Goth Star": {
     "mbid": "1d1f5266-7748-4072-81ab-a2657f5da585",
     "links": []
   },
   "Piyama Party|Sneaky Flute Moods: A Tribute to the Swirlies": {
-    "mbid": null
+    "mbid": "c9786c6a-3f2c-47a7-a617-2d5bc8726250",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://piyamaparty.bandcamp.com/album/lbum-de-oro-2015"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://piyamaparty.bandcamp.com/album/lbum-de-oro-2015"
+      }
+    ]
   },
   "Night Beds|Aquarium Drunkard: Lagniappe Sessions - Night Beds": {
-    "mbid": null
+    "mbid": "695cbaa0-eca7-4b71-afd0-4a458a577791",
+    "links": []
   },
   "The Twilight Sad|Killed My Parents And Hit The Road": {
     "mbid": "07853133-c917-4b56-b44f-940df37302d3",
@@ -214,7 +298,17 @@
     "links": []
   },
   "Evergreen Day|A Tribute To Felt": {
-    "mbid": null
+    "mbid": "5e8ba42c-e6ad-4113-88d0-4c904c183c00",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1614263"
+      },
+      {
+        "type": "secondhandsongs",
+        "url": "https://secondhandsongs.com/release/23259"
+      }
+    ]
   },
   "Sarah Humphreys|Him": {
     "mbid": "c0ff9ee7-0309-42ed-b08e-2304958948a0",
@@ -246,13 +340,29 @@
     "links": []
   },
   "Casiotone For the Painfully Alone|Advance Base Battery Life": {
-    "mbid": null
+    "mbid": "a6dfce60-5d93-41e1-ac8d-800ec477147b",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B001O1K86A"
+      }
+    ]
   },
   "Night shall eat these girls and boys|Live on WCBN": {
     "mbid": "2239d543-e2b8-42c9-af43-a2fb265b86b0",
     "links": []
   },
   "Poev Vanary|Cambodian Soul Sounds, Vol. 1": {
-    "mbid": null
+    "mbid": "eb552be3-3c9e-47ef-a888-759511804394",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://cambodiansoulsounds.bandcamp.com/album/cambodian-soul-sounds-vol-1"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://cambodiansoulsounds.bandcamp.com/album/cambodian-soul-sounds-vol-1"
+      }
+    ]
   }
 }

@@ -12,7 +12,8 @@
     "links": []
   },
   "M. Ward|The Late Great Daniel Johnston: Discovered Covered": {
-    "mbid": null
+    "mbid": "7550f2a5-e93c-44f3-9e9d-c774d363d108",
+    "links": []
   },
   "Tracey Thorn & Jens Lekman|SCORE!  Twenty Years of Merge Records - The Covers!": {
     "mbid": null
@@ -33,7 +34,8 @@
     "mbid": null
   },
   "Au Revoir Simone feat. Nikolai Fraiture Of The Strokes|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": []
   },
   "Cat Power|Deep Inside The Radio - Peel Session": {
     "mbid": "ada67ac9-c32d-4221-9eeb-a7016ad888db",
@@ -87,7 +89,13 @@
     "links": []
   },
   "Meaghan Smith|(500) Days Of Summer (Music From The Motion Picture)": {
-    "mbid": null
+    "mbid": "1af15d39-229c-4bec-851d-62fee1a34fef",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1988372"
+      }
+    ]
   },
   "Chromatics feat. Glass Candy|Cherry": {
     "mbid": "aba58120-b991-44fd-a02c-bcaba26001d4",

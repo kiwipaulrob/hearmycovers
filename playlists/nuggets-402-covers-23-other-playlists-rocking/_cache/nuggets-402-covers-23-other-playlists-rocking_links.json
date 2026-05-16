@@ -82,7 +82,8 @@
     "links": []
   },
   "Cake|99 Best Covers Ever (IV) - The Killing Moon - Extra Value": {
-    "mbid": null
+    "mbid": "7b7fa23c-dea4-44d6-88c4-3c1c3abf787f",
+    "links": []
   },
   "Cat Power|I'm Not There (Music From The Motion Picture)": {
     "mbid": "f507ae1b-76c5-4dce-aba5-60df88fc005b",
@@ -126,7 +127,8 @@
     "links": []
   },
   "Richard Hawley|Hotel Room 45": {
-    "mbid": null
+    "mbid": "55b2c6ef-84f6-315e-b195-50a8c2d2cd7b",
+    "links": []
   },
   "Camera|A Psych Tribute to the Doors": {
     "mbid": null
@@ -146,7 +148,13 @@
     "mbid": null
   },
   "The xx|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://grai.bandcamp.com/album/internet-single"
+      }
+    ]
   },
   "Vivian Girls|John, I'm Only Dancing - Single": {
     "mbid": "550bb5ef-a6e3-4b68-bf2f-20e6a0cac160",
@@ -160,7 +168,8 @@
     "mbid": null
   },
   "TV Torso|Internet Single": {
-    "mbid": null
+    "mbid": "e3e6d8a7-3e5b-435b-a3f2-2de5b98fbc2a",
+    "links": []
   },
   "Shonen Knife|Osaka Ramones (Tribute To The Ramones)": {
     "mbid": "68803ecd-9d97-4bee-b5a5-0c82f948a7d0",
@@ -171,7 +180,21 @@
     "links": []
   },
   "Los Punsetes|Coloreando A Daniel Johnston": {
-    "mbid": null
+    "mbid": "7d152a63-2adc-4526-8b78-9dc4ef5d0d29",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/6I0gOCaZpkfJA21dwlzOje"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/390935387"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1661761139"
+      }
+    ]
   },
   "The Tammys|Egyptian Shumba - The Singles And Rare Recordings 1962-1964": {
     "mbid": "92449565-0a85-4cfd-8ab4-a38addb53004",
@@ -184,6 +207,10 @@
   },
   "Coltrane Motion|Bruce": {
     "mbid": "cd200cc2-69ab-454a-a051-260d357ecec8",
+    "links": []
+  },
+  "Calexico w/Nicolai Dunger and His Band|Convict Pool": {
+    "mbid": "8edf887c-f8ee-4663-af02-0a5117acc808",
     "links": []
   }
 }

@@ -21,7 +21,8 @@
     "links": []
   },
   "Hideki Kaji//The Suzan|Young Folks": {
-    "mbid": null
+    "mbid": "e06a11e8-0675-49a8-a1d2-644119364b7e",
+    "links": []
   },
   "Toro Y Moi|Chum Onah: BUTTERxFACE celebrates the music of M. Jackson": {
     "mbid": null
@@ -66,13 +67,20 @@
     "links": []
   },
   "The Riats|Run, Run, Run": {
-    "mbid": null
+    "mbid": "f7de51c8-e753-449f-8372-d2e7992aa761",
+    "links": [
+      {
+        "type": "discography entry",
+        "url": "https://www.ultratop.be/nl/song/19b565/School-Is-Cool-Run-Run-Run-Run-Run"
+      }
+    ]
   },
   "Broken Social Scene|The Time Traveler's Wife Original Movie Sountrack": {
     "mbid": null
   },
   "The Mathletes|The Mathletes Present The Mathletes": {
-    "mbid": null
+    "mbid": "3bfbfaad-89ed-482c-ac96-96d4637b6c65",
+    "links": []
   },
   "Iron & Wine|Time After Time": {
     "mbid": "4a363813-8b4b-44aa-8161-c1cafb082cfb",

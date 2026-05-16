@@ -29,7 +29,8 @@
     "links": []
   },
   "Brook Benton|70+ Classic Songs": {
-    "mbid": null
+    "mbid": "4ec6204d-7dfd-4532-a3a5-141f22a09e5f",
+    "links": []
   },
   "Barbara Lynn|Here Is Barbara Lynn": {
     "mbid": "3e7367b0-58fb-42ec-893d-c20a29b44db1",
@@ -44,7 +45,13 @@
     "links": []
   },
   "DJ O-Dub|Deep Covers 2": {
-    "mbid": null
+    "mbid": "d8ebcbbd-c0c2-44bb-ae68-36fbca1d5a6e",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/5227407"
+      }
+    ]
   },
   "Bobby \"Blue\" Bland|\"Live\" On Beale Street": {
     "mbid": "1c0f82d8-78c2-45c0-bc1d-0f39ee761e12",
@@ -67,7 +74,8 @@
     "links": []
   },
   "Charles Bradley/Menahan Street Band|No Time For Dreaming": {
-    "mbid": null
+    "mbid": "ce7624ec-d9f2-4c3c-b141-d0b536820f1f",
+    "links": []
   },
   "Aretha Franklin|This Girl's in Love with You": {
     "mbid": "1ee66ac5-dcd2-4e4b-bbad-7cccf26a30f1",
@@ -112,6 +120,7 @@
     ]
   },
   "Freddie Scott|How Many Roads - Black America Sings Bob Dylan": {
-    "mbid": null
+    "mbid": "10af35b8-666a-4893-a32b-f19b4593154a",
+    "links": []
   }
 }

@@ -2,7 +2,7 @@
   "total_tracks": 862,
   "total_playlists": 33,
   "total_orig_artists": 404,
-  "total_cover_artists": 670,
+  "total_cover_artists": 671,
   "total_hours": 52.3,
   "top_orig_artists": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "artist": "The Rolling Stones",
-      "count": 20
+      "count": 21
     },
     {
       "artist": "The Cure",
@@ -30,12 +30,12 @@
       "count": 17
     },
     {
-      "artist": "Neil Young",
+      "artist": "David Bowie",
       "count": 17
     },
     {
-      "artist": "David Bowie",
-      "count": 16
+      "artist": "Neil Young",
+      "count": 17
     },
     {
       "artist": "Fleetwood Mac",

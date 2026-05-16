@@ -37,7 +37,8 @@
     "links": []
   },
   "Ellie Goulding feat. Starsmith|Album Sampler": {
-    "mbid": null
+    "mbid": "4c09bb76-776c-4e83-a764-9a6e295ac276",
+    "links": []
   },
   "Sparklehorse with The Flaming Lips|The Late Great Daniel Johnston: Discovered Covered": {
     "mbid": null
@@ -69,7 +70,8 @@
     "links": []
   },
   "Masha Qrella|Not Given Lightly - A Tribute To The Giant Golden Book Of New Zealands Alternative Music Scene": {
-    "mbid": null
+    "mbid": "127f8eeb-a0d3-4a6a-ad78-5eb559c61d78",
+    "links": []
   },
   "Martin And The Moondogs|ABBAsalutely (A Flying Nun Tribute To The Music Of ABBA)": {
     "mbid": null
@@ -87,7 +89,17 @@
     "links": []
   },
   "Easy Star All-Stars feat. Michael Rose and Menny More|Easy Star's Lonely Hearts Dub Band (Bonus Track Version)": {
-    "mbid": null
+    "mbid": "c7184c9a-dff7-4dbf-93f7-ec8ae0f2d535",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000LRYUOE"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/902231"
+      }
+    ]
   },
   "Au Revoir SImone|Internet Single": {
     "mbid": "c835f4ae-ec2a-4fc9-b3ef-786cf0f0fb6b",
