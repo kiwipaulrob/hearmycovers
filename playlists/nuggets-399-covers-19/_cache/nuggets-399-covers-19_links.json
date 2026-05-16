@@ -32,13 +32,30 @@
     "links": []
   },
   "Grant Lee Buffalo|If I Were A Carpenter": {
-    "mbid": null
+    "mbid": "fd5c9930-c46a-4677-95a4-47be03adc80c",
+    "links": []
   },
   "So Cow|The Go-Betweens cover": {
-    "mbid": null
+    "mbid": "66315c75-6552-4334-8a21-07b4b74a002f",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/7917571"
+      }
+    ]
   },
   "Nina Simone|A Single Woman": {
-    "mbid": null
+    "mbid": "e6f18611-2f6b-4e6a-8c39-2c48fcf655bc",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000002HD9"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1404102"
+      }
+    ]
   },
   "Abw\u00e4rts|Amok Koma": {
     "mbid": "6a0b275a-be52-4c00-80f7-f32fac590bc8",
@@ -53,7 +70,13 @@
     "links": []
   },
   "Amy Winehouse|BBC Radio 1 Established 1967": {
-    "mbid": null
+    "mbid": "a0f77002-29c0-46cc-b525-ab7e3cccc24d",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://soundcloud.com/margsmansaray/amy-winehouse-1"
+      }
+    ]
   },
   "Sharon Jones & The Dap-Kings|Soul Time!": {
     "mbid": "e105f8d3-f9a9-4a0c-b8b3-c318784f11fd",
@@ -85,6 +108,12 @@
     "links": []
   },
   "Erma Franklin|Soul Sister (Bonus Track Edition)": {
-    "mbid": null
+    "mbid": "a7c28585-4ae2-4230-93ab-966bf4d1a1c2",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/750561"
+      }
+    ]
   }
 }
