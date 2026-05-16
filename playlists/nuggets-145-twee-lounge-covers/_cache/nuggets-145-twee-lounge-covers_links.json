@@ -66,7 +66,17 @@
     ]
   },
   "My Brightest Diamond|Les Inrockuptibles pr\u00e9sentent Reprises Inrocks - Vol. 01": {
-    "mbid": null
+    "mbid": "f7beb7fd-c3ae-4202-ba86-acd9379c138e",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/5582496"
+      },
+      {
+        "type": "download for free",
+        "url": "http://www.noisetrade.com/mybrightestdiamond/until-now"
+      }
+    ]
   },
   "Architecture|Internet Single": {
     "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
@@ -97,7 +107,8 @@
     "links": []
   },
   "Montefiori Cocktail|Raccolta N\u00ba2": {
-    "mbid": null
+    "mbid": "96b2eba5-ee96-47b3-8b8c-3e09bb8567cc",
+    "links": []
   },
   "MENSCH|Dance and Die - EP": {
     "mbid": "32f9a2e0-dba7-4077-8bd4-7cec8dad84f6",
@@ -113,7 +124,13 @@
     "links": []
   },
   "The Morning Benders|Daytrotter Session": {
-    "mbid": null
+    "mbid": "c61ea1a8-7ca7-4f42-b8ab-46fff0868861",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "http://www.daytrotter.com/article/421/free-songs-shearwater"
+      }
+    ]
   },
   "Danny Michel|Loving The Alien: Danny Michel Sings The Songs Of David Bowie": {
     "mbid": "65fea0c7-e85f-46e7-8439-5203afa212a2",
