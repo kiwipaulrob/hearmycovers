@@ -17,7 +17,13 @@
     ]
   },
   "Jamey Johnson|The Imus Ranch Record II": {
-    "mbid": null
+    "mbid": "7701ac40-6337-48e0-a36d-81681d5e0fba",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0041QI8DK"
+      }
+    ]
   },
   "Sia|Under The Milky Way": {
     "mbid": "a80c9c64-5a7e-458e-b2ca-74dc7d0da0f4",
@@ -32,7 +38,13 @@
     "links": []
   },
   "Butcher The Bar|Dressing Up - ePop Covers": {
-    "mbid": null
+    "mbid": "30710e29-ef24-4934-83f5-bb73b4baf6d5",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1370945"
+      }
+    ]
   },
   "Amy MacDonald|A Curious Thing": {
     "mbid": "247b99d1-fad8-4720-a206-f967e94a8670",
@@ -59,7 +71,13 @@
     "links": []
   },
   "Calexico|Sweetheart 2005: Love Songs": {
-    "mbid": null
+    "mbid": "c8fbddb4-a00f-40d0-877f-f0ed51c62d04",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/828909"
+      }
+    ]
   },
   "The Jolly Boys|Great Expectation": {
     "mbid": "46bb4637-14a0-46bf-83cf-e94f78269f21",
@@ -91,9 +109,11 @@
     ]
   },
   "We've Got A Fuzzbox And We're Gonna Use It !!|What's The Point (The Bostinous One)": {
-    "mbid": null
+    "mbid": "dbd79532-87a3-4b0d-bb13-788230c5a423",
+    "links": []
   },
   "The Allegras|The Best Of Kaleidoscope": {
-    "mbid": null
+    "mbid": "c43f9096-f629-46d9-a2b1-05bab93321d8",
+    "links": []
   }
 }

@@ -29,7 +29,17 @@
     "links": []
   },
   "Zee Avi|College EP": {
-    "mbid": null
+    "mbid": "59dc2a0d-7a18-479b-8e7a-22e8a06c59c2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0025X4OV6"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2059688"
+      }
+    ]
   },
   "Violent Femmes|Crazy": {
     "mbid": "2df7162f-8a5a-469c-b1ea-80a639ec84cd",
@@ -52,7 +62,13 @@
     "links": []
   },
   "Pavement|Major Leagues": {
-    "mbid": null
+    "mbid": "190d7141-a36d-450d-9a4c-c0ff79c8995b",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00001IVLP"
+      }
+    ]
   },
   "Schneider TM featuring Kpt Michigan|Indietronica": {
     "mbid": "09677246-28df-4989-8c29-45f9921eb6fe",
@@ -72,19 +88,33 @@
     "links": []
   },
   "schrodt & bucsics|s & b sessions": {
-    "mbid": null
+    "mbid": "0d134b52-d44b-4b0b-a235-89b32f2c3093",
+    "links": []
   },
   "Miike Snow |Bonna Jamz": {
     "mbid": "f8c29a05-b619-4301-8795-c4c2d98fbe7b",
     "links": []
   },
   "David Bowie|Reality": {
-    "mbid": null
+    "mbid": "1d6e45e7-e94f-4de1-8b77-1270239acfa8",
+    "links": []
   },
   "Tom Adams|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://grai.bandcamp.com/album/internet-single"
+      }
+    ]
   },
   "Amadou & Mariam|Chrome Music": {
-    "mbid": null
+    "mbid": "c7b32f27-5f69-4549-8edc-b845fcab949f",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/9241784"
+      }
+    ]
   }
 }

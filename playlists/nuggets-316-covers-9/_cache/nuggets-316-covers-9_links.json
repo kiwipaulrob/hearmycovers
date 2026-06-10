@@ -12,10 +12,34 @@
     "links": []
   },
   "The Gun Club|In My Room": {
-    "mbid": null
+    "mbid": "c6a3357b-3f2d-469c-949b-effd9d4ad048",
+    "links": [
+      {
+        "type": "allmusic",
+        "url": "https://www.allmusic.com/album/release/mr0004825480"
+      },
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.es/gp/product/B077MX1FMD"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/11431156"
+      }
+    ]
   },
   "Johnny Cash|American V:  A Hundred Highways": {
-    "mbid": null
+    "mbid": "9393e707-e105-42b5-aaac-c2a524a7a589",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/6023835"
+      },
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/album/johnny-cash/american-v_-a-hundred-highways-6/"
+      }
+    ]
   },
   "The Feelies|Paint It Black": {
     "mbid": "e5c1d1c7-5ee7-45da-9b28-dd73cbf97e09",
@@ -95,6 +119,12 @@
     "links": []
   },
   "Richard Anthony|Covers: A Dinner of Culinary and Musical Tribute": {
-    "mbid": null
+    "mbid": "2513b401-e292-4856-9e33-2aedf0f28f00",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4167376"
+      }
+    ]
   }
 }

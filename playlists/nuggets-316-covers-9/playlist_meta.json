@@ -77,13 +77,6 @@
       "year": "2006"
     },
     {
-      "title": "Jet Plane",
-      "artist": "Sonya Spence",
-      "orig_artist": "John Denver",
-      "album": "In the Dark",
-      "year": "2009"
-    },
-    {
       "title": "Only Love Can Break Your Heart",
       "artist": "I Blåme Coco",
       "orig_artist": "Neil Young",
@@ -180,6 +173,13 @@
       "orig_artist": "Roky Erickson",
       "album": "The Psychedelic Sounds Of The Sonic Cathedral",
       "year": "2010"
+    },
+    {
+      "title": "Jet Plane",
+      "artist": "Sonya Spence",
+      "orig_artist": "John Denver",
+      "album": "In the Dark",
+      "year": "2009"
     }
   ],
   "html_path": "C:\\Users\\prob\\OneDrive\\Documents2\\hearmycovers\\playlists\\nuggets-316-covers-9\\index.html",

@@ -4,10 +4,17 @@
     "links": []
   },
   "Austra|Stereogum Presents\u2026 STROKED: A Tribute To Is This It": {
-    "mbid": null
+    "mbid": "c942b82b-19e2-41c5-ac2e-b97e5385f00b",
+    "links": []
   },
   "Anika|Anika": {
-    "mbid": null
+    "mbid": "26cf53a5-6a6a-35db-a0ed-84645081c5cc",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0046W16AQ"
+      }
+    ]
   },
   "Orca Orca|Top 40 Compilation": {
     "mbid": "6f514863-dd00-4cac-b36d-f66d2519c282",
@@ -22,37 +29,58 @@
     "links": []
   },
   "Jenny Lewis & The Watson Twins (Featuring Bright Eyes, Ben Gibbard & M.Ward)|Rabbit Fur Coat": {
-    "mbid": null
+    "mbid": "f26360c7-2648-485e-a46f-531d52bf6f34",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://krazyred.bandcamp.com/track/handle-with-care"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://krazyred.bandcamp.com/track/handle-with-care"
+      }
+    ]
   },
   "TV Girl|TV Girl/Dirty Gold Split Digital 7\"": {
     "mbid": "b92b2615-c081-4a2c-a955-4943c71b2725",
     "links": []
   },
   "Friendly Fires|Uncovered 2": {
-    "mbid": null
+    "mbid": "00e546f1-1ea8-4718-90ad-a81556fd7afd",
+    "links": []
   },
   "The Newspapers|Unreleased": {
-    "mbid": null
+    "mbid": "d83e058c-da2d-4f6e-8e8a-f9da9b85b713",
+    "links": []
   },
   "The Ruby Suns|Palmitos Park": {
-    "mbid": null
+    "mbid": "e8ee775b-9d73-4512-9aa2-da9bba704a74",
+    "links": []
   },
   "Kohwi|Hidden Trees Remixes + Extras": {
-    "mbid": null
+    "mbid": "edf8318b-acbc-4a5a-80d8-0d385cb8ba46",
+    "links": []
   },
   "COOLRUNNINGS|Blalock's Indie/Rock Playlsit: February (2011)": {
     "mbid": "75ea9747-a2ae-41a1-965f-eed79f78dd7d",
     "links": []
   },
   "Millionyoung|Summers Gone": {
-    "mbid": null
+    "mbid": "02606ef5-3c79-4d8b-b7a5-23875aaecdce",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B004GJA46Q"
+      }
+    ]
   },
   "The Heard|The Heard and the Music of the Clendenen Twins": {
     "mbid": "17a022c6-e7cc-492b-bba3-053c5d67dde0",
     "links": []
   },
   "Babaluca|Fonogramaticos Vol.2": {
-    "mbid": null
+    "mbid": "7d287389-a5dc-4a72-b47e-565b8a4b8ffb",
+    "links": []
   },
   "Elecktric Geisha|Les Smiths: A French Tribute": {
     "mbid": "229531bf-ffee-4acd-b351-8b4942c0248f",
@@ -63,7 +91,13 @@
     "links": []
   },
   "Sportsday Megaphone|Buffetlibre Rewind 2": {
-    "mbid": null
+    "mbid": "2957c1d8-f480-4d17-94a6-b57b8b115a77",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/517596"
+      }
+    ]
   },
   "Blackblack|Perfect As Cats: A Tribute To The Cure": {
     "mbid": "dad42664-a0c4-43d9-b54e-66c68e57b838",
@@ -78,7 +112,13 @@
     "links": []
   },
   "The Cure|[Internet Single]": {
-    "mbid": null
+    "mbid": "c8fbddb4-a00f-40d0-877f-f0ed51c62d04",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/828909"
+      }
+    ]
   },
   "Xiu Xiu / Parenthetical Girls|Hated For Loving / Handsome Devil": {
     "mbid": "85d521db-bd9c-41a4-a7b1-7c75259ddb4d",

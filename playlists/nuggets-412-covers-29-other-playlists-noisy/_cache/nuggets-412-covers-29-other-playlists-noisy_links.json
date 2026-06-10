@@ -12,56 +12,149 @@
     "links": []
   },
   "Nirvana|Fifteen Minutes - A Tribute To The Velvet Underground": {
-    "mbid": null
+    "mbid": "3fce74e6-2898-478e-81b3-c72a8fb4cb89",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/873822"
+      }
+    ]
   },
   "Oberhofer|Internet Single": {
     "mbid": "be3ebd39-2ccc-475a-abe5-f67e639f7d97",
     "links": []
   },
   "Kind Spirit|Headed For The Ditch": {
-    "mbid": null
+    "mbid": "6d8d5594-9644-4041-949f-6bd13b0f4845",
+    "links": []
   },
   "Teen Daze|The Road Goes Ever On: Showstoppers": {
-    "mbid": null
+    "mbid": "bd46859b-b359-4ba9-a388-bde0a34e791d",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/9814387"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/14wR2FS9fCPD2PwNh53hHl"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/12704134"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id1096351365"
+      },
+      {
+        "type": "purchase for download",
+        "url": "http://www.qobuz.com/album/rainwater-coffee-ep-teen-daze/3614598134947"
+      }
+    ]
   },
   "Orchestre National de Barb\u00e8s|Alik": {
     "mbid": "1028f8eb-d683-4c57-93ad-98da5a4318e9",
     "links": []
   },
   "The Raveonettes|I Wanna Be Adored": {
-    "mbid": null
+    "mbid": "083350c8-4edf-493f-987b-d06ddc5be5fb",
+    "links": []
   },
   "Geri X|A Psych Tribute to the Doors": {
-    "mbid": null
+    "mbid": "e61451f3-c460-4462-8bb6-fa129a77bf69",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00HO0RHVY"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "http://cleorecs.com/store/shop/a-psych-tribute-to-the-doors-lp/"
+      }
+    ]
   },
   "Flight|Summer Bummer Get Laid Get Wasted Mixtape c46": {
-    "mbid": null
+    "mbid": "c793afde-ea50-4744-a931-cd0d7717835f",
+    "links": []
   },
   "Silkies|Never Tell a Lie EP": {
-    "mbid": null
+    "mbid": "06be95f6-94f4-4cba-b6f4-c08ccb8da398",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "https://silkies.bandcamp.com/track/like-one"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://silkies.bandcamp.com/track/like-one"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://silkies.bandcamp.com/track/like-one"
+      }
+    ]
   },
   "Th' Faith Healers|Peel Sessions": {
     "mbid": "d924eba8-45ad-3e91-8de0-27f15c0a7cba",
     "links": []
   },
   "TV Torso|VA - Holy Holy Holy": {
-    "mbid": null
+    "mbid": "e3e6d8a7-3e5b-435b-a3f2-2de5b98fbc2a",
+    "links": [
+      {
+        "type": "download for free",
+        "url": "https://tvtorso.bandcamp.com/album/clear-lake-strangler"
+      }
+    ]
   },
   "The Calorifer Is Very Hot!|Flying Smile in a Hot Hot Summer EP": {
-    "mbid": null
+    "mbid": "f0d95001-0450-4bdc-be30-6fad47d429e7",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1276735"
+      }
+    ]
   },
   "Loves Ugly Children |ABBAsalutely (A Flying Nun Tribute To The Music Of ABBA)": {
-    "mbid": null
+    "mbid": "9b720cde-92ed-4af3-a6fb-1fcdddb61da1",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B00002553G"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/531655"
+      }
+    ]
   },
   "Camera|A Psych Tribute to the Doors": {
     "mbid": "d66d9816-445a-4821-8788-432217790a9d",
     "links": []
   },
   "A Sunny Day In Glasgow|Special EP": {
-    "mbid": null
+    "mbid": "19e242f9-547a-421e-af63-ccf9255f94b0",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://asunnydayinglasgow.bandcamp.com/album/new-christmas-classics"
+      }
+    ]
   },
   "Thick Shakes|Ooh Mommy": {
-    "mbid": null
+    "mbid": "4f468fb8-3186-451d-a6b2-77a7e77443ae",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.jp/gp/product/B00005HIIG"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1699545"
+      }
+    ]
   },
   "Airbird|Internet Single": {
     "mbid": "58766648-5b36-4208-9b29-9e38a204f0cb",
@@ -76,10 +169,22 @@
     "links": []
   },
   "Jay Reatard|Stroke - Songs For Chris Knox": {
-    "mbid": null
+    "mbid": "5aa3a9d2-62c4-4021-819d-488f9d6f08b4",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1835833"
+      }
+    ]
   },
   "Cloud Nothings|Tears On My Pillow: Part II": {
-    "mbid": null
+    "mbid": "d9335c7f-3ca4-424d-8227-6c0834155ca5",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "http://www.qobuz.com/album/cloud-nothings-cloud-nothings/5414939425776"
+      }
+    ]
   },
   "Dinosaur Jr.|The Edge Of Rock": {
     "mbid": "82d3af20-8a02-496a-971a-93a65ddcdd88",

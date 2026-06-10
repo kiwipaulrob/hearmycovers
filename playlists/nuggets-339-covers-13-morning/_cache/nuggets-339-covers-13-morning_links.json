@@ -26,7 +26,17 @@
     "links": []
   },
   "Damien Jurado & Richard Swift|Other People's Songs Volume One": {
-    "mbid": null
+    "mbid": "1c02737b-8852-415d-b4d1-a8f56003831c",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/jp/album/id1188210349"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://mora.jp/package/43000006/00602557353082/"
+      }
+    ]
   },
   "Black Tambourine|OneTwoThreeFour": {
     "mbid": "6282eea0-235a-4e50-88a5-66dc6c27ff50",
@@ -41,7 +51,29 @@
     "links": []
   },
   "Sparklehorse with The Flaming Lips|The Late Great Daniel Johnston: Discovered Covered": {
-    "mbid": null
+    "mbid": "b9433b8b-58a5-4465-9449-c98a47cad0d3",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B005ZK089S"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/5865329"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/1CyvcUBBZ60X7tAY0RspBH"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/us/album/id475203256"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://shop.klicktrack.com/402446"
+      }
+    ]
   },
   "The Last Names|52 Covers": {
     "mbid": "b1a24018-9c67-43f5-9b2c-6a407dd53703",
@@ -52,10 +84,21 @@
     "links": []
   },
   "Buddy Guy/Anthony Hamilton/Robert Randolph|Bring 'Em In/Skin Deep": {
-    "mbid": null
+    "mbid": "cebdfd70-b4f5-344e-9d49-b8a251c18cf9",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B00000727H"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/153575"
+      }
+    ]
   },
   "Fleet Foxes|Internet Single": {
-    "mbid": null
+    "mbid": "ec9f0c7b-39ae-4a51-b5a6-7a53f9cfb66f",
+    "links": []
   },
   "Nirvana|The Sessions": {
     "mbid": "653988c5-c79f-4b24-840a-6b1d21144405",
@@ -74,7 +117,8 @@
     "links": []
   },
   "Martin And The Moondogs|ABBAsalutely (A Flying Nun Tribute To The Music Of ABBA)": {
-    "mbid": null
+    "mbid": "98566180-f7d1-487e-add0-99e29cf51f10",
+    "links": []
   },
   "Melanie|The Very Best Of Melanie": {
     "mbid": "60e79940-b459-40e6-85a2-76e9ffcc9f81",

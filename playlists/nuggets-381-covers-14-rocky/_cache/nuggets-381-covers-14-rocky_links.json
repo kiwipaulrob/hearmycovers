@@ -49,10 +49,17 @@
     "links": []
   },
   "Chris Farlowe|Mojo Presents: Paint It Black": {
-    "mbid": null
+    "mbid": "0c6a24c3-f532-4006-94ff-e580a4a78e52",
+    "links": []
   },
   "Swervedriver|Unpiecing the Jigsaw - A Tribute to The Velvet Underground": {
-    "mbid": null
+    "mbid": "b8c02d42-1165-459d-a653-5a3414074b51",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3000386"
+      }
+    ]
   },
   "Screaming Trees|Fifteen Minutes - A Tribute To The Velvet Underground": {
     "mbid": "7135a3ef-bfce-4c46-bb8e-a6b91738fa8c",
@@ -63,7 +70,8 @@
     "links": []
   },
   "Dinosaur Jr.|The Bridge - A Tribute To Neil Young": {
-    "mbid": null
+    "mbid": "ea82d941-0677-4a74-b219-1496f17d9ac3",
+    "links": []
   },
   "The Feeling Of Love|beko_BOX2_3": {
     "mbid": "479e62d7-4b81-4c9b-8a69-9a83ec9c43a1",
@@ -87,10 +95,17 @@
     "links": []
   },
   "The Black Keys|Side By Side - No Fun (7'')": {
-    "mbid": null
+    "mbid": "698452a1-a788-4e53-bf96-5b12172cf08d",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/285057"
+      }
+    ]
   },
   "The Raveonettes|Who Are You - An All-Star Tribute to the Who": {
-    "mbid": null
+    "mbid": "dde4f802-545a-4b51-867b-943d03d79057",
+    "links": []
   },
   "Placebo|Covers": {
     "mbid": "65ec2e9c-d0f5-38a4-a7d8-dad5b618b5a3",

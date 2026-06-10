@@ -29,7 +29,8 @@
     ]
   },
   "Belle & Sebastian|The BBC Sessions": {
-    "mbid": null
+    "mbid": "9ed3c514-8b53-44dc-acaa-27d2c45ae9f0",
+    "links": []
   },
   "Otis Redding|Otis Blue: Otis Redding Sings Soul": {
     "mbid": "975f400e-08d0-4c8f-8272-abafbe20ab1f",
@@ -48,10 +49,12 @@
     "links": []
   },
   "Trampled by Turtles|Live at First Avenue": {
-    "mbid": null
+    "mbid": "882148be-364d-43c9-87a9-b9e5228468c7",
+    "links": []
   },
   "Call To Mind|Vic Galloway Session (19/04/10)": {
-    "mbid": null
+    "mbid": "5a2412c4-c8a4-4af7-a2e8-f7902598c333",
+    "links": []
   },
   "Final Fantasy|": {
     "mbid": "a4f82471-2014-4ef4-ac85-95630a7cdcad",
@@ -62,10 +65,17 @@
     "links": []
   },
   "Cornershop|Judy Sucks Lemon For Breakfast": {
-    "mbid": null
+    "mbid": "85a37218-1bdd-453c-bd81-c74de0e43c15",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000006ZGE"
+      }
+    ]
   },
   "Robin Pecknold (Fleet Foxes)|BBC Session": {
-    "mbid": null
+    "mbid": "340e81a1-7326-4b78-b434-9ffb9881e7f0",
+    "links": []
   },
   "New Order|NOMC15": {
     "mbid": "3c54d6a9-34d0-4585-831b-72b921118f2d",
@@ -87,6 +97,12 @@
     "links": []
   },
   "Rick Astley with Blossoms|Glastonbury 2023": {
-    "mbid": null
+    "mbid": "236da66d-9a0d-4540-ab0b-9bea30e24073",
+    "links": [
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/unauth/black-country-new-road/glastonbury-2023/"
+      }
+    ]
   }
 }

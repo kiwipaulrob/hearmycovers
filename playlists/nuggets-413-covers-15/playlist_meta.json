@@ -1,7 +1,7 @@
 {
   "name": "Nuggets 413 - Covers 15",
   "slug": "nuggets-413-covers-15",
-  "track_count": 25,
+  "track_count": 23,
   "year_range": "1988–2022",
   "year_min": 1988,
   "year_max": 2022,
@@ -105,13 +105,6 @@
       "year": "2012"
     },
     {
-      "title": "Just The Way You Are",
-      "artist": "Barry White",
-      "orig_artist": "Billy Joel",
-      "album": "Barry White - The Collection",
-      "year": "2014"
-    },
-    {
       "title": "How Can You Mend a Broken Heart?",
       "artist": "Al Green",
       "orig_artist": "Bee Gees",
@@ -124,13 +117,6 @@
       "orig_artist": "The Beach Boys",
       "album": "The Killing Moon - Barbed Wire Kisses",
       "year": "1988"
-    },
-    {
-      "title": "Warm Leatherette",
-      "artist": "Destruction Unit",
-      "orig_artist": "The Normal",
-      "album": "Death To The Old Flesh",
-      "year": "2006"
     },
     {
       "title": "The Look Of Love",

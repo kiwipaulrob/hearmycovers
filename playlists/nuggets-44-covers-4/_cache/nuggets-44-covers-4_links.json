@@ -24,7 +24,8 @@
     "links": []
   },
   "Glasvegas|Daddy's Gone (Part Two)": {
-    "mbid": null
+    "mbid": "f2bbe5ee-c69e-4f67-894e-db4d79daa7f1",
+    "links": []
   },
   "Scissor Sisters|War Child Presents Heroes": {
     "mbid": "92bd844d-88df-47e5-8e95-45329d6be282",
@@ -64,20 +65,43 @@
     "links": []
   },
   "Au Revoir Simone|Life Beyond Mars - Bowie Covered": {
-    "mbid": null
+    "mbid": "c835f4ae-ec2a-4fc9-b3ef-786cf0f0fb6b",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4923300"
+      }
+    ]
   },
   "Bad Livers|Lust For Life": {
     "mbid": "514be5bc-4a09-459e-bdad-f1ff9e323635",
     "links": []
   },
   "RickoLus|Other Peoples Clothes": {
-    "mbid": null
+    "mbid": "226b77ae-a5a4-47c0-a468-a09575b36d50",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/4512856"
+      },
+      {
+        "type": "other databases",
+        "url": "https://rateyourmusic.com/release/single/astronautalis_rickolus/astronautalis_and_rickolus/"
+      }
+    ]
   },
   "The Bobs|The Bobs Sing The Songs Of... Volume 2": {
-    "mbid": null
+    "mbid": "3ffe111f-771e-4fe9-ae00-9b2c8224f435",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1743962"
+      }
+    ]
   },
   "Dr Fox's Old Timey String Band|Internet Single": {
-    "mbid": null
+    "mbid": "241bfa60-9a0f-4d4b-92eb-053c4458e30c",
+    "links": []
   },
   "The Raveonettes|Pretty In Black": {
     "mbid": "e334badc-8e58-4c05-beba-97ae5de0edda",

@@ -54,10 +54,12 @@
     "links": []
   },
   "Odina|Nothing Makes Sense - EP": {
-    "mbid": null
+    "mbid": "bafe7a9d-1e7c-44ff-9fd9-a8d5d9ea886c",
+    "links": []
   },
   "The Everly Brothers|Nice Guys": {
-    "mbid": null
+    "mbid": "9c429bb3-4bbc-4638-a854-663a67126ca4",
+    "links": []
   },
   "Four Tops|Motown Legends: Bernadette": {
     "mbid": "42a10202-1fc6-476a-a9b6-6c02920a2d87",
@@ -95,7 +97,13 @@
     ]
   },
   "Lali Puna|Not Given Lightly - A Tribute To The Giant Golden Book Of New Zealands Alternative Music Scene": {
-    "mbid": null
+    "mbid": "962e2e23-4f39-4dff-8a89-935656d07ddd",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/83586"
+      }
+    ]
   },
   "The Primitives|The Coventry Demo's": {
     "mbid": "0e35e550-42b4-4544-b0e2-04aec600de48",

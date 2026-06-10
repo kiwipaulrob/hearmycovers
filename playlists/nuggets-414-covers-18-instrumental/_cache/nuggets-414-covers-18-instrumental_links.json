@@ -8,13 +8,26 @@
     "links": []
   },
   "Daily Planet|A Tribute To Felt": {
-    "mbid": null
+    "mbid": "d59ab1fe-6a5c-4e32-8d37-af1e34bbc291",
+    "links": []
   },
   "Booker T., The MG's|Hip Hug-Her": {
-    "mbid": null
+    "mbid": "7c66a11a-17e7-47d4-9cac-624b1f0c14a6",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1067779"
+      }
+    ]
   },
   "Billy Strange with The Mexican Brass|In The Mexican Bag": {
-    "mbid": null
+    "mbid": "8b6695d3-44c3-40ae-97ce-2719009a8994",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.fr/gp/product/B000244O4M"
+      }
+    ]
   },
   "Kiyoaki Iwamoto|SOUGI+": {
     "mbid": null
@@ -71,10 +84,34 @@
     ]
   },
   "Maston|The Lagniappe Sessions :: Maston": {
-    "mbid": null
+    "mbid": "f5f92506-278b-4312-85bd-8ad241ef63fc",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://open.spotify.com/album/3rg1CEJQB7k4LJMqBm9vUA"
+      },
+      {
+        "type": "free streaming",
+        "url": "https://www.deezer.com/album/400412237"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/gb/album/1666862556"
+      }
+    ]
   },
   "Camera|A Psych Tribute to the Doors": {
-    "mbid": null
+    "mbid": "e61451f3-c460-4462-8bb6-fa129a77bf69",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B00HO0RHVY"
+      },
+      {
+        "type": "purchase for mail-order",
+        "url": "http://cleorecs.com/store/shop/a-psych-tribute-to-the-doors-lp/"
+      }
+    ]
   },
   "Ramsey Lewis|Plays The Beatles Songbook (Great Songs/Great Performances)": {
     "mbid": "ff9f0e76-a3f6-4a1d-8604-8c24b73f7f4a",

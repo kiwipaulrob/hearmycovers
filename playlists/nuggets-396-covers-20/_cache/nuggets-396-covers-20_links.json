@@ -53,13 +53,39 @@
     ]
   },
   "Glasvegas|Geraldine (Part Two)": {
-    "mbid": null
+    "mbid": "bdcb8822-70dc-3255-b9ae-d862c0dd98bc",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B001E1GXPU"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1458118"
+      }
+    ]
   },
   "The Feelies|December  14 1977  CBGB's, NYC": {
-    "mbid": null
+    "mbid": "2d3dd82e-b66a-4fa5-9d41-f5e9350f1181",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0000067ZE"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/12675373"
+      }
+    ]
   },
   "The Dream Syndicate|Aquarium Drunkard: Lagniappe Sessions - The Dream Syndicate": {
-    "mbid": null
+    "mbid": "1c46bae9-99a1-443e-ad76-744f4fe7434e",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1070025"
+      }
+    ]
   },
   "Lucy Dacus|La Vie En Rose": {
     "mbid": "e18c862b-f616-4cc2-8860-967ce9013506",
@@ -74,10 +100,21 @@
     "links": []
   },
   "Damien Jurado|Aquarium Drunkard: Lagniappe Sessions - Damien Jurado": {
-    "mbid": null
+    "mbid": "e0ef59ad-ebb3-495c-87a4-0a428e2c38d6",
+    "links": []
   },
   "Marie Lafor\u00eat|Girls with Guitars": {
-    "mbid": null
+    "mbid": "9c5a9d0b-069c-41d7-a642-8edfc9242b84",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.de/gp/product/B00004VLDW"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/674156"
+      }
+    ]
   },
   "The Wedding Present|Bizarro": {
     "mbid": "4f9236a0-43ab-4a15-b9c4-fb4243aa1dda",
@@ -92,12 +129,20 @@
     "links": []
   },
   "Shepherds|Holy Stain EP": {
-    "mbid": null
+    "mbid": "924d36ca-77eb-448d-8526-a821ac298101",
+    "links": []
   },
   "Sister's Love|RARE FUNK VOL.7: FEMALE FUNK": {
-    "mbid": null
+    "mbid": "28bb8d0f-4aa0-484e-ab66-e5ec025628a8",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2157881"
+      }
+    ]
   },
   "Middle Brother|Middle Brother": {
-    "mbid": null
+    "mbid": "d018eb48-2097-463c-9d1b-433836f3ec47",
+    "links": []
   }
 }

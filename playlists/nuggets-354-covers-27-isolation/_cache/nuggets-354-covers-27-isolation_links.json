@@ -16,23 +16,42 @@
     "links": []
   },
   "The Concretes|Layourbattleaxedown": {
-    "mbid": null
+    "mbid": "a2448d17-f3f6-4cc9-9131-69dd39a51c46",
+    "links": []
   },
   "Nina Simone|Fodder On My Wings": {
     "mbid": "432b5384-47c6-4409-b0fa-1d98535c7a29",
     "links": []
   },
   "The Beautiful South|Gold Diggas, Head Nodders & Pholk Songs": {
-    "mbid": null
+    "mbid": "2df94bc4-adc7-468d-81ac-440c2c529f8f",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000EHT5KU"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3488729"
+      }
+    ]
   },
   "Whitney|Strange Overtones": {
-    "mbid": null
+    "mbid": "9ce4a628-0608-42e5-8c4b-f0794c706e22",
+    "links": []
   },
   "Harold Melvin & The Blue Notes|The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass)": {
-    "mbid": null
+    "mbid": "4e337d7f-5b5c-4b8a-87ba-a30f4d2ccc31",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2733984"
+      }
+    ]
   },
   "Ofege|51 Lex Presents: Lead Me On": {
-    "mbid": null
+    "mbid": "53c81576-88d0-4f43-a8f4-ab3d803ba7fe",
+    "links": []
   },
   "The Dynamics|Version Excursions": {
     "mbid": "2bef6903-9039-4113-93dc-eb3870f6b2aa",
@@ -47,7 +66,8 @@
     "links": []
   },
   "The Cecil Holmes Soulful Sounds|The Black Motion Picture Experience": {
-    "mbid": null
+    "mbid": "ad1be789-8ae4-4909-a5ed-abbb4b9e47fa",
+    "links": []
   },
   "American Analog Set|Not Given Lightly - A Tribute To The Giant Golden Book Of New Zealands Alternative Music Scene": {
     "mbid": "e6971ff8-1d38-4426-8777-d6e8196b25d9",
@@ -62,7 +82,8 @@
     "links": []
   },
   "Able Tasmans|ABBAsalutely (A Flying Nun Tribute To The Music Of ABBA)": {
-    "mbid": null
+    "mbid": "5aef4752-ce2a-4c80-9fa1-fc4a4b4c34fc",
+    "links": []
   },
   "Screaming Females|Singles Too": {
     "mbid": "b10d1c85-c88e-4f3a-9092-640bd9e4da3e",

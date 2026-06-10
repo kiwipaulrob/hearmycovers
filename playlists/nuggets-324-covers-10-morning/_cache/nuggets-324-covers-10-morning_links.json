@@ -16,7 +16,8 @@
     "links": []
   },
   "Tracey Thorn & Jens Lekman|SCORE!  Twenty Years of Merge Records - The Covers!": {
-    "mbid": null
+    "mbid": "c8d184a6-db57-437c-b20d-7a2e981884d9",
+    "links": []
   },
   "Cat Power|The Covers Record": {
     "mbid": "f055a17b-8c46-4c86-8106-a916de4de693",
@@ -31,7 +32,8 @@
     "links": []
   },
   "Thao, The Get Down Stay Down|Holy Roller": {
-    "mbid": null
+    "mbid": "9f883b81-82f9-4102-b589-fa0a6c2cb469",
+    "links": []
   },
   "Au Revoir Simone feat. Nikolai Fraiture Of The Strokes|Internet Single": {
     "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
@@ -62,7 +64,13 @@
     "links": []
   },
   "Sophie Madeleine|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://grai.bandcamp.com/album/internet-single"
+      }
+    ]
   },
   "Whitney|Strange Overtones": {
     "mbid": "ff8a8132-30c1-4d72-93c7-e31824dc7ce3",
@@ -110,10 +118,12 @@
     "links": []
   },
   "The Hood Internet|thehoodinternet.com": {
-    "mbid": null
+    "mbid": "93d46442-4f31-4eb8-8192-d5f43c2bb33c",
+    "links": []
   },
   "The Parvarim|The Parvarim Sing Simon And Garfunkel (In Hebrew)": {
-    "mbid": null
+    "mbid": "80af3f66-7b00-48f9-8e73-28929cc5a0e2",
+    "links": []
   },
   "Weezer|Africa": {
     "mbid": "1bb55e68-1bef-4cd5-8b4c-606a841f9847",

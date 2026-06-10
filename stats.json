@@ -1,9 +1,9 @@
 {
-  "total_tracks": 853,
+  "total_tracks": 851,
   "total_playlists": 33,
   "total_orig_artists": 405,
-  "total_cover_artists": 671,
-  "total_hours": 51.7,
+  "total_cover_artists": 670,
+  "total_hours": 51.6,
   "top_orig_artists": [
     {
       "artist": "Bob Dylan",
@@ -61,11 +61,11 @@
     },
     {
       "decade": 1990,
-      "count": 81
+      "count": 80
     },
     {
       "decade": 2000,
-      "count": 336
+      "count": 335
     },
     {
       "decade": 2010,

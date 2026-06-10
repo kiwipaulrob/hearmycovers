@@ -41,10 +41,21 @@
     "links": []
   },
   "Sturgill Simpson|In Bloom": {
-    "mbid": null
+    "mbid": "fe389504-c8df-40c7-a0b4-fc83734450ef",
+    "links": [
+      {
+        "type": "free streaming",
+        "url": "https://wearewy.bandcamp.com/album/in-bloom"
+      },
+      {
+        "type": "purchase for download",
+        "url": "https://wearewy.bandcamp.com/album/in-bloom"
+      }
+    ]
   },
   "Psychic TV|The Bridge - A Tribute To Neil Young": {
-    "mbid": null
+    "mbid": "4b6ff190-c6d8-4152-8e1b-f386b7bec3a0",
+    "links": []
   },
   "The Routes|The Twang Machine": {
     "mbid": "94d4c38f-a1f7-4eb1-ad50-d8e3c7989851",
@@ -55,7 +66,8 @@
     "links": []
   },
   "Discovery|Discovery": {
-    "mbid": null
+    "mbid": "6da7f4b5-6b70-49ef-961d-fbea98e924d4",
+    "links": []
   },
   "Bobby Womack|Fly Me To The Moon": {
     "mbid": "bd223b68-fbd5-4f8a-a56d-beebc1620bc2",
@@ -66,7 +78,8 @@
     "links": []
   },
   "Luna|Best Of Luna - Lunafied": {
-    "mbid": null
+    "mbid": "2c0d39d1-f635-4d9e-b2e7-40fc5f9e279f",
+    "links": []
   },
   "The Dirtbombs|Ulltraglide In Black": {
     "mbid": "2e4c4acf-dc93-4db5-8576-49d7df55c4a4",
@@ -93,7 +106,8 @@
     "links": []
   },
   "Port O'Brien / Papercuts|Be Yourself: A Tribute To Graham Nash": {
-    "mbid": null
+    "mbid": "2d3a051f-77c2-49d2-8389-5d80818688a6",
+    "links": []
   },
   "Jerry Lee Lewis|The Killer Collection": {
     "mbid": "7a91b619-f0b9-4939-a295-64d245e73889",
@@ -105,6 +119,16 @@
     ]
   },
   "Mot\u00f6rhead|Bad Magic": {
-    "mbid": null
+    "mbid": "bf9a09d3-af93-4816-ab44-814cb1e94ec2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B0BNGVYLVF"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/26211107"
+      }
+    ]
   }
 }

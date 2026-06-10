@@ -53,10 +53,22 @@
     "links": []
   },
   "Caitlin Rose|3Sirens Presents: With Love Part 1": {
-    "mbid": null
+    "mbid": "0e02b28a-84ab-4795-bbc0-433f5b910679",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1322643"
+      }
+    ]
   },
   "Damien Jurado & Richard Swift|Other People's Songs Volume One": {
-    "mbid": null
+    "mbid": "da0f8ddf-9803-4142-8d90-6b70b4dd3542",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/540563"
+      }
+    ]
   },
   "Lambchop|What Another Man Spills": {
     "mbid": "99844f60-fa3e-3d50-90b3-b07db81d8463",
@@ -71,30 +83,68 @@
     "links": []
   },
   "Eddie Hazel|Game, Dames and Guitar Thangs": {
-    "mbid": null
+    "mbid": "cf160398-94bd-3235-9223-dfbb6eb5a534",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000G04UBE"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/810996"
+      }
+    ]
   },
   "R.E.M.|Where The Pyramid Meets The Eye (A Tribute To Roky Erickson)": {
-    "mbid": null
+    "mbid": "23477358-1642-45e7-9b87-bf63362ec11b",
+    "links": []
   },
   "Albert Kuvezin and Yat-Kha|Re-Covers": {
     "mbid": "20ea49bb-9228-4dc5-ba68-f2d091235d16",
     "links": []
   },
   "Gichy Dan's Beachwood No. 9|Zevolution: Ze Records Re-Edited": {
-    "mbid": null
+    "mbid": "7fb093f3-7a6a-4e4f-a68e-bc2d88e8d4b2",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B002QAQ9K2"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/2014754"
+      }
+    ]
   },
   "Katy Goodman/Greta Morgan|Take It, It's Yours": {
-    "mbid": null
+    "mbid": "f241143f-92b0-41bf-8673-03ea24aacce7",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B01IF4JREW"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/8930847"
+      }
+    ]
   },
   "Sandie Shaw|The Very Best Of": {
     "mbid": "22d5c6cc-7da2-4da5-affa-d43803df2d3f",
     "links": []
   },
   "The Kingston Trio|Rarities, Vol. 1: The Lost 1967 Kingston Trio Album": {
-    "mbid": null
+    "mbid": "8d341fbd-d795-4426-875f-da56bd52a9c9",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/760280"
+      }
+    ]
   },
   "The Pigeon Detectives|BBC Radio 1's Live Lounge Volume 3": {
-    "mbid": null
+    "mbid": "a30eb4b8-d113-4a5a-ab4e-71ee41088b29",
+    "links": []
   },
   "The Cure|Stone Free: A Tribute To Jimi Hendrix ": {
     "mbid": "470462e8-cdad-461f-a2ec-7881d91677a7",
@@ -109,10 +159,26 @@
     "links": []
   },
   "Sonic Youth|4 Tunna Brix (BBC Radio 1 John Peel Session, rec. 11-Oct-1988, broadcast 19-Oct-1988)": {
-    "mbid": null
+    "mbid": "7d9e2e07-f4dd-49b8-a67a-d67b459d23ed",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/656090"
+      }
+    ]
   },
   "The Wedding Present|Ruby Trax - NME's Roaring Forty": {
-    "mbid": null
+    "mbid": "4a9e3dcd-5e17-4317-b5d8-0ea8f7fc5f0d",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.co.uk/gp/product/B000WWN3JG"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1595792"
+      }
+    ]
   },
   "Nina Simone|To Love Somebody": {
     "mbid": "73787222-bd30-48d1-835b-34addb49ba2f",

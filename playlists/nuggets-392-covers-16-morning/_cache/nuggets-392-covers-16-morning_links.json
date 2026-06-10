@@ -60,7 +60,13 @@
     "links": []
   },
   "Austin McCutchen|The Lagniappe Sessions :: Austin McCutchen": {
-    "mbid": null
+    "mbid": "513fa8dd-1752-4eb3-a4bd-6ece7ca2afab",
+    "links": [
+      {
+        "type": "discography entry",
+        "url": "https://aquariumdrunkard.com/2020/09/14/the-lagniappe-sessions-austin-mccutchen/"
+      }
+    ]
   },
   "RF Shannon|Aquarium Drunkard: Lagniappe Sessions - RF Shannon": {
     "mbid": "3a7e659a-65c9-4c0f-843e-59939bfc23c5",

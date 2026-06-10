@@ -35,7 +35,8 @@
     ]
   },
   "The Ramones|End Of The Century (Expanded & Remastered)": {
-    "mbid": null
+    "mbid": "7bc30ab8-e5ab-427d-932b-18d89bdb43ea",
+    "links": []
   },
   "The Twilight Sad|Killed My Parents And Hit The Road": {
     "mbid": "0e3ab127-a457-3b77-8099-fa0014631f4f",
@@ -82,7 +83,8 @@
     "links": []
   },
   "EQ|Aca esta la cura. Tributo a The Cure": {
-    "mbid": null
+    "mbid": "8e9b9a66-7d34-430e-b187-a8a62b32f509",
+    "links": []
   },
   "Devics|Just Like Heaven: a tribute to The Cure": {
     "mbid": "432ab0af-940d-4de2-9739-0e0fb7dc47f8",
@@ -93,9 +95,16 @@
     "links": []
   },
   "Albanopower|Internet Single": {
-    "mbid": null
+    "mbid": "c8fbddb4-a00f-40d0-877f-f0ed51c62d04",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/828909"
+      }
+    ]
   },
   "Bootsy Collins|LateNightTales: Fatboy Slim": {
-    "mbid": null
+    "mbid": "b0d419e8-cc7f-46e2-b62c-7da3e1c185ac",
+    "links": []
   }
 }

@@ -11,10 +11,12 @@
     "mbid": null
   },
   "The Very Best (Esau Mwamwaya & Radioclit)|The Very Best Mixtape": {
-    "mbid": null
+    "mbid": "3f2f9254-2827-410f-8647-061d866c1835",
+    "links": []
   },
   "Jackie Wilson|Light My Fire": {
-    "mbid": null
+    "mbid": "18ede73c-b812-43b9-8cf8-800148bb99b8",
+    "links": []
   },
   "Electrelane|Singles, B-sides & Live": {
     "mbid": "833ac478-fb61-4ab4-91a5-20945b386d9e",
@@ -29,7 +31,17 @@
     "links": []
   },
   "Teenage Fanclub|The King": {
-    "mbid": null
+    "mbid": "a810e41d-d9c5-47eb-90ad-7e8a181878af",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://itunes.apple.com/hk/album/id1198984786"
+      },
+      {
+        "type": "streaming",
+        "url": "https://music.apple.com/hk/album/1198984786"
+      }
+    ]
   },
   "The Feelies|Crazy Rhythms": {
     "mbid": "e91e664a-d13d-4766-a1be-75421a053aad",
@@ -40,17 +52,30 @@
     "links": []
   },
   "Kate Bush|Two Rooms: Celebrating The Songs Of Elton John & Bernie Taupin": {
-    "mbid": null
+    "mbid": "dba9e5c6-3421-35fb-9a55-fc80fa66d176",
+    "links": []
   },
   "Santogold|Top Ranking": {
     "mbid": "319096aa-a5fe-4994-83ab-19422e9fd750",
     "links": []
   },
   "Dresden Dolls|No, Virginia": {
-    "mbid": null
+    "mbid": "281dc80f-1aa8-3fa7-9856-b67fb61dbd91",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B0000EI2KT"
+      }
+    ]
   },
   "The Beat|I Just Can`t Stop It": {
-    "mbid": null
+    "mbid": "57cd2814-c302-4c26-963a-b50116fb698b",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1392194"
+      }
+    ]
   },
   "Ben Sollee|Learning to Bend": {
     "mbid": "f0c115c7-26a4-4723-b37b-3ae34b59f414",
@@ -61,7 +86,21 @@
     "links": []
   },
   "Bodies of Water|ReM cover": {
-    "mbid": null
+    "mbid": "3939fc5d-27b0-4fec-ad0f-ec2d0161f67a",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B002ZCH3ZQ"
+      },
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/3514857"
+      },
+      {
+        "type": "other databases",
+        "url": "https://www.musik-sammler.de/media/872223/"
+      }
+    ]
   },
   "The Postal Service|Give Up": {
     "mbid": "bfb3d255-a15d-4780-b619-ebd97fb678fd",
@@ -72,9 +111,25 @@
     "links": []
   },
   "Shout Out Louds|Stereogum Presents... DRIVE XV: A Tribute to Automatic For the People": {
-    "mbid": null
+    "mbid": "da583116-0c65-4d1e-bef0-b334547bb763",
+    "links": [
+      {
+        "type": "discogs",
+        "url": "https://www.discogs.com/release/1808330"
+      },
+      {
+        "type": "download for free",
+        "url": "http://stereogum.com/drivexv/track/"
+      }
+    ]
   },
   "The Kooks|Internet Single": {
-    "mbid": null
+    "mbid": "1e1594c4-c87a-4652-add4-166f195e47c1",
+    "links": [
+      {
+        "type": "purchase for download",
+        "url": "https://grai.bandcamp.com/album/internet-single"
+      }
+    ]
   }
 }
