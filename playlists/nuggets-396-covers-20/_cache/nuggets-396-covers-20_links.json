@@ -144,5 +144,23 @@
   "Middle Brother|Middle Brother": {
     "mbid": "d018eb48-2097-463c-9d1b-433836f3ec47",
     "links": []
+  },
+  "Ben Folds|Songs For Goldfish": {
+    "mbid": "7b2fa4d7-320f-41fa-9753-122de39701bc",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000A1KDH4"
+      }
+    ]
+  },
+  "Ciccone Youth|The Whitey Album": {
+    "mbid": "5f776067-7f90-39de-bbff-53931245915c",
+    "links": [
+      {
+        "type": "amazon asin",
+        "url": "https://www.amazon.com/gp/product/B000003TAN"
+      }
+    ]
   }
 }
